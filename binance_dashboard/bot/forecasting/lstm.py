@@ -28,8 +28,8 @@ class BinanceView:
     def __init__(self):
         
         
-        self.api_key = 'akOyfC3602O1NAnRHqMCItE6Z7R5phRTr2e33pKKigzHUP3TNtq1u6Nixh8Z6I9J'
-        self.api_secret = 'UyywNH3aUIpCsIUw4u2Zedy5p7hQ0EHKtSAJzPAEh1XR3x0iYzMVhpFpkCzMJb4N'
+        self.api_key = ''
+        self.api_secret = ''
         self.client = Client(self.api_key, self.api_secret)
     
     def get_binance_data(self, symbol, interval='1m', limit=1000):
