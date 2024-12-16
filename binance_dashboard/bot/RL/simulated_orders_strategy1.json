@@ -1,0 +1,62 @@
+[
+    {
+        "symbol": "ETHUSDT",
+        "isBuyer": true,
+        "side": "BUY",
+        "type": "MARKET",
+        "status": "FILLED",
+        "price": 0.0,
+        "qty": 0.0014,
+        "quantity": 0.0014,
+        "time": "2024-12-08 15:22:30.243000",
+        "strategy": "strategy1"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "isBuyer": false,
+        "side": "SELL",
+        "type": "MARKET",
+        "status": "FILLED",
+        "price": 3983.68,
+        "qty": 0.0018,
+        "quantity": 0.0018,
+        "time": "2024-12-08 18:29:16.482000",
+        "strategy": "strategy1"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "isBuyer": true,
+        "side": "BUY",
+        "type": "MARKET",
+        "status": "FILLED",
+        "price": 4004.73,
+        "qty": 0.0024,
+        "quantity": 0.0024,
+        "time": "2024-12-08 21:00:32.680000",
+        "strategy": "strategy1"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "isBuyer": true,
+        "side": "BUY",
+        "type": "MARKET",
+        "status": "FILLED",
+        "price": 0.0,
+        "qty": 0.0015,
+        "quantity": 0.0015,
+        "time": "2024-12-08 22:19:52.143000",
+        "strategy": "strategy1"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "isBuyer": true,
+        "side": "BUY",
+        "type": "MARKET",
+        "status": "FILLED",
+        "price": 3885.75,
+        "qty": 0.002,
+        "quantity": 0.002,
+        "time": "2024-12-14 12:10:48.415000",
+        "strategy": "strategy1"
+    }
+]

@@ -1,0 +1,20 @@
+<!-- Modal para nuevo archivo/carpeta -->
+<div class="modal fade" id="newItemModal" tabindex="-1">
+    <div class="modal-dialog modal-dark">
+        <div class="modal-content bg-dark">
+            <div class="modal-header">
+                <h5 class="modal-title code-font" id="newItemModalLabel">New Item</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <input type="text" class="form-control code-font" id="newItemName" placeholder="Enter name">
+                <input type="hidden" id="newItemType">
+                <input type="hidden" id="currentPath">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-modern" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-modern" id="createNewItem">Create</button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+Balance inicial para BTCUSDT: 196.30
+Época 0: Balance = 190.93, Cambio = -2.74%
+Época 1: Balance = 189.45, Cambio = -3.49%
+Época 2: Balance = 195.62, Cambio = -0.34%
+Época 3: Balance = 184.67, Cambio = -5.93%
+Época 4: Balance = 194.14, Cambio = -1.10%
+Época 5: Balance = 193.99, Cambio = -1.17%
+Época 6: Balance = 187.88, Cambio = -4.29%
+Época 7: Balance = 192.60, Cambio = -1.88%
+Época 8: Balance = 193.87, Cambio = -1.24%
+Época 9: Balance = 195.79, Cambio = -0.26%

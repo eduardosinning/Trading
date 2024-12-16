@@ -1,0 +1,14 @@
+[
+    {
+        "symbol": "ETHUSDT",
+        "isBuyer": false,
+        "side": "SELL",
+        "type": "MARKET",
+        "status": "FILLED",
+        "price": 3909.5,
+        "qty": 0.0019,
+        "quantity": 0.0019,
+        "time": "2024-12-16 10:28:48.859287",
+        "strategy": "strategy2"
+    }
+]

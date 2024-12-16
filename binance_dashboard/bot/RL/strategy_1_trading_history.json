@@ -1,0 +1,5865 @@
+[
+    {
+        "timestamp": "2024-12-16 10:20:39.376466",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9632122749,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4601866464716906,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:20:50.277042",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9759069292,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.503889720726273,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:21:01.198626",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9783780519,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5126612359394453,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:21:12.062481",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9864514307,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5404806560703754,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:21:22.900915",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.99056528469998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.554856701721121,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:21:33.806030",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9924625266,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.562230580433003,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:21:44.671043",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9904483533,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.553160621257884,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:21:55.552760",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9954270113,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.569970453859655,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:22:06.474827",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9946824646,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5691724491710413,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:22:17.305803",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0029374437,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.597496430639648,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:22:28.235230",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0085739204,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6177203011987173,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:22:39.113194",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0122405123,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6313991838429374,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:22:50.154658",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0079274567,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6156753002222346,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:23:01.192651",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0006295131,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.590795015554788,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:23:12.071187",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.010967886,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6284021069496686,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:23:23.124072",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0116201461,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.631928701672566,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:23:34.010379",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0139265867,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6409426552284128,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:23:44.961968",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0157482187,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6481437783372637,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:23:55.861188",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0167740902,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.650865345472982,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:24:06.791851",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00815346529998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.619215849252218,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:24:17.834802",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.012468832,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.635928529929608,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:24:28.875314",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.01060330849998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6285264122130734,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:24:39.910661",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0055624856,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6105033637128323,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:24:50.795375",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0056858478,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6116290098385346,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:25:01.842872",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0117061225,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.632611459429889,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:25:12.912762",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0023620623,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5996489488269483,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:25:23.849758",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0014480167,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.59618786573374,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:25:34.762279",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9960942629,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5775656929743196,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:25:45.675376",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0005940744,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.59360415120829,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:25:56.555679",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0000145523,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5915223995109766,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:26:07.442048",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9948448031,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5740410065149546,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:26:18.260353",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9958653939,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5778195575573375,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:26:29.194232",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00403876389998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.606733393884325,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:26:40.233950",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0083145331,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.620756943572927,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:26:51.274323",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0095541158,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6266999246040865,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:27:02.110479",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0057901339,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.613995232061535,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:27:12.932387",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0115615199,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6357955633618926,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:27:23.754306",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0161600566,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6538083353463775,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:27:34.639132",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0122894973,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6385288682589,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:27:45.683084",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0050476796,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.612722240720785,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:27:56.527093",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9904933421,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.562896337294745,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:28:07.588972",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.993610733,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.573830195179978,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:28:18.635086",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9848253174,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.543181132924294,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:28:29.493722",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.979713301,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5247659882460614,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:28:40.335592",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9827959783,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.535776641081819,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:28:51.277023",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9836499206,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5383603556072747,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:29:02.314981",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.981704963,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.53195814368363,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:29:13.202758",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9761092927,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5132256486037154,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:29:24.051933",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9761080889,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.513222121749047,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:29:34.910213",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9841077217,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.54072914444016,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:29:45.842848",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9832677997,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5370023434891102,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:29:56.722425",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9908142358,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5625890778280254,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:30:07.721334",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9875038711,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5506394720821066,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:30:18.635727",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9990104264,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.591215732585285,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:30:29.515390",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.99948726399998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.592301866862382,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:30:40.554635",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9907942575,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.561104644753563,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:30:51.595228",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.997704704,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.585532014602373,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:31:02.635572",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9969632334,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5827674478509475,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:31:13.465373",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9938795139,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.572899193914168,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:31:24.324140",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98581121569998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5431312010959686,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:31:35.424768",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9844158025,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5373874409358073,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:31:46.812561",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9800064836,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.521719902831516,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:31:57.674204",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9853315376,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5417261528041126,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:32:08.715552",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9889541765,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.555218932170307,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:32:19.696610",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00045490489998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5948593360349075,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:32:30.634897",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0003855985,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.594390312413515,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:32:41.523085",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9872582756,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5480631661085353,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:32:52.404197",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9883935875,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5513228735502813,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:33:03.373693",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9931156815,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.569179001453872,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:33:14.324032",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9852670804,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5414380145381954,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:33:25.397661",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9887808983,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5539109910168594,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:33:36.363187",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9856565503,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.542246606033673,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:33:47.275687",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9769097594,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.510988741358345,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:33:58.314160",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9720206068,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.495328889252296,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:34:09.356598",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9766858935,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.512012920040689,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:34:20.201913",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9717799928,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4948331813022215,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:34:31.115712",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9741802056,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.503943962375169,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:34:42.156306",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9791556971,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5213671880683175,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:34:53.035548",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.97852396,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5183380920115277,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:35:04.084463",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.983853269,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.538320755416565,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:35:14.960896",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98006861689998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5247008514173106,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:35:26.012526",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9785190416,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5191340119869454,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:35:36.876238",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9742549817,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.50440862420209,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:35:47.881227",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9698432806,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.489389577644923,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:35:58.803402",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.96951473119998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4893638156781974,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:36:09.864829",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9773715504,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.518068348876661,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:36:20.697109",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98204459709999,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5345717891359443,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:36:31.755493",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9772995792,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.516382824810154,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:36:42.802122",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9767312164,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.514445772028209,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:36:53.683388",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9734192327,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5022798273688664,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:37:04.723974",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.97831736339998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5185791943885367,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:37:15.723695",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9831011455,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5360205720754863,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:37:27.106656",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9707826324,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.492446639988193,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:37:37.997350",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9660805384,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.47467629560988,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:37:48.843735",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9630880155,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4648334879099774,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:38:00.190368",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9562690085,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4408244324457553,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:38:11.027127",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9454901636,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4035711586279693,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:38:21.859293",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.94855070559998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4140396898374363,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:38:32.835323",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9299227596,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3536783663440524,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:38:43.684658",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9247874379,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.333542671360646,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:38:54.643497",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9186520596,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3113949360554034,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:39:05.681900",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.93251817959998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.359847281611366,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:39:16.510704",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.925110582,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3317637905647772,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:39:27.436664",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9255108491,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3343198246678956,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:39:38.476490",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9275148313,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.340728881122351,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:39:49.515596",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.92643926789998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3378224234283933,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:40:00.555661",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.934575207,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.366287626781792,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:40:11.397385",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9377049256,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3756532029327038,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:40:22.220752",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9302863811,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.349882029237325,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:40:33.516210",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9415459194,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3916046609975177,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:40:44.396519",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9402941947,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.387393337518222,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:40:55.445879",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.944267909,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.399966002950235,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:41:06.331022",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9434268444,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3949674696788272,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:41:17.165531",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9517998562,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.42341414176895,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:41:28.025208",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9636281996,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.464421609581328,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:41:38.958154",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98298159159998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5300142766372153,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:41:49.835085",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9842568119,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.53711845671542,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:42:00.714596",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9887588188,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.552048632153173,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:42:11.562070",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.982324754,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.528156090632652,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:42:22.386440",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9788713822,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.516772488191744,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:42:33.355880",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9810515092,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5245954119914256,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:42:44.396223",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9692389819,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.482060025668068,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:42:55.445455",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.973493049,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4971066281718195,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:43:06.332586",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.978259479,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5131043648164333,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:43:17.156711",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98042583699998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5206327961087234,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:43:28.008769",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.97696636569998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5075093072848937,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:43:38.964993",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9782463657,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.512999452902431,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:43:49.995807",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98190115,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5256472389116795,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:44:01.033060",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9831237782,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5301719770875954,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:44:11.879765",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9795307699,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.518134875845061,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:44:22.714916",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9783636109,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.51362784415957,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:44:33.644043",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9790422786,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.516607073676843,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:44:44.557355",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9721647314,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4933455914206983,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:44:55.604998",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.96904576219998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4825338885120822,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:45:06.497133",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9732543355,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.498395835695863,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:45:17.374150",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9691640707,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.482919809786553,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:45:28.397542",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9660527747,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4727169078080564,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:45:39.275465",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.95910351,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.448266833176539,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:45:50.278106",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.95960199,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4510594840467292,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:46:01.119745",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9678307205,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4793189771005033,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:46:11.966982",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.97399269689998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.497109715506308,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:46:23.044378",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9794552281,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5182073104906206,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:46:33.978085",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9821317986,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.527889268950213,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:46:45.034031",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9854138214,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5397762262518664,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:46:56.030119",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9843710078,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5371134781218863,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:47:06.957479",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9683864324,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4805324601094694,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:47:17.998324",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.96630172279998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4727213492923146,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:47:28.886780",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9668894582,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4734160370352174,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:47:39.916556",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.980522812,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5207874737093365,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:47:50.796639",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9845068843,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5357889540013367,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:48:02.152952",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9729803129,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4964008600437695,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:48:13.037585",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9597580028,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4487043473125922,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:48:23.868743",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9600924331,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4504362573394416,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:48:34.805023",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.945444019,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.400135549578257,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:48:46.155234",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9289605065,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3400025249403122,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:48:57.044166",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9311129779,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.347318278156274,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:49:07.925294",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9400411686,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3818293736151848,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:49:18.762571",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9414657121,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3860848172544977,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:49:29.684306",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9245907731,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3282304154858693,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:49:40.717436",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.92956021269998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3457656444004162,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:49:51.757479",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9285686627,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3429055502738048,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:50:02.796147",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9190399519,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3084203274259596,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:50:13.641487",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.90840913,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.269208168036958,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:50:24.557738",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.8991148317,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.234496843956897,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:50:35.437270",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.902646742,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.248739230759975,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:50:46.627888",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9064692929,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2621527760205598,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:50:58.155320",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9096913289,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2743025459029074,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:51:10.096185",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.90932230369998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2728620318270707,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:51:21.000061",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.90692361199999,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.263399603447336,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:51:31.917509",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9078572546,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2668690401070175,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:51:42.958263",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.908222006,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2679376770722066,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:51:54.007171",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9000428124,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2389772304012854,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:52:05.044923",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.89841650809998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2332819315769274,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:52:16.019411",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.8954417082,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.222614522657398,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:52:26.899351",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.899032221,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2351375462182688,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:52:37.736433",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.89795970309999,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2308986291943413,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:52:48.716281",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.8938233276,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.218565755545683,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:52:59.755532",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9014259721,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2441995502255736,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:53:10.811644",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9149846221,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2911954972865303,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:53:21.664122",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9171608776,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2995925070138252,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:53:32.508211",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9237863022,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3216531297312684,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:53:43.367456",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.92816834229998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.337192280658637,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:53:54.273132",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.92026064409998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.309532008248405,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:54:05.206648",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.91029824999998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.273383442982681,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:54:16.067848",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9116253989,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2776041462474725,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:54:26.963883",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9030907534,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.246273339942666,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:54:37.998069",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9071306555,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.263033625827792,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:54:49.005545",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.904883189,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.25396874042584,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:54:59.888117",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9054901834,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2568103865024187,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:55:10.776612",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.90056589739999,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.240005586811943,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:55:21.647783",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9047816002,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2563296393797203,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:55:32.556626",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9081877547,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.267484179788761,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:55:43.597580",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.90818260999998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.2676898644315817,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:55:54.636767",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.91387730399998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.287646035422331,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:56:05.679181",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9189600426,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.305878469694792,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:56:16.582716",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.923584164,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3221330696049125,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:56:27.569469",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9274365188,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.335688606945723,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:56:38.796623",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9247229158,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.324626514995156,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:56:49.678079",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9302035595,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3432034614261164,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:57:00.721591",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9324569264,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.351983014475913,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:57:11.622484",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9260605715,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3282615374905515,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:57:22.464710",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9254796691,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.328030744073393,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:57:33.638998",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9237825644,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3208714511569486,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:57:44.559364",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9293299204,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3407038903868895,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:57:55.598068",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9332989416,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3542779300703613,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:58:06.485727",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9283460994,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3371323599530016,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:58:17.355112",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9267840316,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.332528675594702,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:58:28.254488",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9299959426,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3430115819028963,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:58:39.117640",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9247798788,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3242975121952445,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:58:50.132654",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.924598675,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.323521933613113,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:59:01.239726",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9290680675,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3396556786885263,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:59:12.095065",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9287232647,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.339660313201169,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:59:23.173905",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9326864361,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3534890959887114,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:59:34.166145",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.93994996499998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.378860486278008,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:59:45.046712",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9366605615,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3678606369003425,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 10:59:56.037176",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9340081065,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.358379659617659,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:00:06.954891",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9434059534,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3919072780252004,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:00:17.890948",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.933336452,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3560640340969634,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:00:28.729036",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9330137661,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.35738027506869,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:00:39.604586",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9314734469,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3533090120680105,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:00:50.662838",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9309703564,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3524027730359176,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:01:01.482027",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9330874611,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.361363519983115,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:01:12.355714",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9253983937,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.336336791299446,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:01:23.203950",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9318495871,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.3593769909273115,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:01:34.167506",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9362317808,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.37425225646251,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:01:45.147575",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9411699204,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.391487737349081,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:01:56.014631",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9452903769,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4074118710388266,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:02:06.966602",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.946380577,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4105760585780973,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:02:17.845087",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9568738995,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4475005286075344,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:02:28.879322",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9779190043,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5203096887348093,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:02:39.934520",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9788843884,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.523901966408221,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:02:50.955976",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9707460682,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4963816700334913,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:03:01.951936",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9816632982,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5324330261939068,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:03:12.878211",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.97298747579998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5026151175565423,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:03:23.853990",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9721165968,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.500142253808534,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:03:34.807064",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.980738233,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5300301397271423,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:03:45.679648",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9785781144,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5204625523720474,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:03:56.560289",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.97834721019998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.521420895937361,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:04:07.606365",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9718590122,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.4995022530741107,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:04:18.446027",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9813731784,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5330807520141523,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:04:29.278719",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9799919746,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5271581619155743,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:04:40.200051",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9802257151,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5281931614108832,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:04:51.303400",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98002281979998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5272030194262984,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:05:02.316077",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9794729766,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.526041891366464,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:05:13.200220",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98250928,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.536427589683355,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:05:24.079299",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9753101003,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5098037548168666,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:05:35.119038",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9933374527,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5714121399120526,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:05:46.165562",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9907440137,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.562426774479865,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:05:57.206930",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.99868900299998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5942263566844073,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:06:08.240776",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9943833625,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5789470915875334,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:06:19.098594",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9968562645,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5874427762752035,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:06:30.159801",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0012968833,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.603498428032481,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:06:41.040062",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0017626835,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.604113665303318,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:06:52.548026",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9986664182,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5920513309265583,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:07:03.575436",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9904669367,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5625181223524334,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:07:14.485318",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9850171731,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.543107547039521,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:07:25.527988",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9888203214,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5560989816065014,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:07:36.559319",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9900986299,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5614603473468605,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:07:47.586902",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9972223505,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.58895328882053,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:07:58.640257",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9930826176,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.572036462686452,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:08:09.680568",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9890094886,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.558474804734772,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:08:20.498192",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9928024388,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.572185513229341,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:08:31.438882",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9896135742,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5594106667869716,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:08:42.461334",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9886714337,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5562121509873936,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:08:53.359705",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0037511672,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6066251624947565,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:09:04.406782",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0041813436,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.609105992147093,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:09:15.288083",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0008073233,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5958374463266636,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:09:26.328209",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0159355394,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6464681553908935,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:09:37.838332",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0112012667,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6285074933532706,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:09:49.038132",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.008796027,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.620862262253118,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:10:00.087187",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9954953699,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5732057322710684,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:10:10.934419",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.99484437249998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5727152004365923,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:10:21.839070",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9994741964,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.588385710077057,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:10:33.348981",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9970540462,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.579470669580718,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:10:44.190968",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0094127973,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6213467922540765,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:10:55.023895",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0175702409,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6482250879998026,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:11:05.999783",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.013400585,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.634591927011522,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:11:16.854682",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0148846841,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6410757414683084,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:11:27.727276",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.009346392,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6222270556472433,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:11:39.110130",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0032259877,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6005853895106026,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:11:51.069852",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0087383782,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6242307810895285,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:12:02.477161",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0121435955,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6336271643445013,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:12:13.329979",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0113223706,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.629206584037291,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:12:24.238352",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0134345787,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.63747623578571,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:12:35.234767",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0089337347,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6208694135515604,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:12:46.161172",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0068754233,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6139566035529143,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:12:57.006490",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0004622132,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5909345995000983,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:13:07.921461",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.996193494,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5760356841424747,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:13:18.751123",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9973390054,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5801258472241795,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:13:29.638105",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.996267285,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.576442191812506,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:13:40.567171",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0039789492,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.602437648592962,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:13:51.608267",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00406598109998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6039282159938515,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:14:02.647724",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.99912192349998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5867906535877654,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:14:13.501274",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0057152092,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.61004471686542,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:14:24.383241",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0063169169,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6113846868049215,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:14:35.229246",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0041541172,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.602051280325613,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:14:46.159329",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0039399078,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6013722750112813,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:14:57.039484",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00225870399998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.594162932033598,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:15:07.894579",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0008349185,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5903323059230403,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:15:18.746125",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9979574811,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.578872376168323,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:15:29.680922",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.990562237,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5525595081659254,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:15:40.531234",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9881064331,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.543757218693425,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:15:51.389595",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98629894229998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5362204410225857,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:16:02.487136",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9804965812,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.512891639156566,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:16:13.367546",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98707820459998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.536192801862759,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:16:24.206962",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9898014115,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5463311479626785,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:16:35.126139",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9877821906,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.538991758355063,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:16:46.212291",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9935619726,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.561450880370959,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:16:57.200129",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00130237439998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.588194867055685,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:17:08.202708",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0011539556,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.588037825780866,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:17:19.128704",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.004580909,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.601383140895013,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:17:30.161763",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.010809014,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.623880856321684,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:17:41.272959",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0185548394,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.650229955550166,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:17:52.882524",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.02499068,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.673134151500554,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:18:03.921522",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0292887604,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.688143916146115,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:18:14.790026",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.02530788,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.673184588019207,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:18:26.133945",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0162087476,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6390098937199973,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:18:37.039525",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0028944283,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.592391404267119,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:18:48.081211",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0070673947,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.606369684046005,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:18:58.907778",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0051380392,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.599414745764775,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:19:09.806422",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0004900044,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.583101904560403,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:19:20.648210",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9998582906,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5815655682830196,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:19:31.608399",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00633140029998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6024307916923295,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:19:42.489218",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0091144446,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6128141925688975,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:19:53.344325",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.011888749,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6220303818283828,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:20:04.201736",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0039478049,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.595831593912352,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:20:15.081428",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.99912750689998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.578503396058038,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:20:26.010292",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0019526559,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.590148804819016,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:20:37.042354",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00084683379998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5868454645275705,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:20:48.080340",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.99417967009998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5626326052780883,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:20:58.966567",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9937904564,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.562648679461832,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:21:09.839152",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.989276877,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.546612144152027,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:21:20.721255",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9943411093,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5645004512338816,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:21:31.928970",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9964173389,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5692180041813004,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:21:42.969038",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0042821999,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5957586308098377,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:21:54.009012",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0021211162,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5882548137936445,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:22:05.040811",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9990231022,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5758342072095313,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:22:15.878805",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9973353865,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5697716249253015,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:22:26.801938",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.984063684,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.526329571590279,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:22:37.839880",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98815228339998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.53994541878839,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:22:48.881921",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9979791267,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5737144759214754,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:22:59.922322",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9993186529,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5774699381583397,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:23:10.774493",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00154390929998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.585575795732165,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:23:21.689315",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0040556658,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5947654283774235,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:23:32.569639",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0079802581,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6069985453493234,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:23:43.467710",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0050930445,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5966424175342078,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:23:54.320607",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0006190513,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5821143667837627,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:24:05.369405",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.98653908289998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5310838567896528,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:24:16.302911",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.984670224,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.525276068923095,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:24:27.414087",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9851816943,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5282034143666103,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:24:38.791878",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9880874038,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.536677758613427,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:24:49.641787",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9913061256,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.546428214899514,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:25:00.558941",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9753700273,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.490101228297261,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:25:11.401623",
+        "initial_balance": 219.9632122749,
+        "current_balance": 219.9888822947,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.5370493537840346,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:25:22.260521",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00920265,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6065852902182627,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:25:33.209592",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0140870942,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6235635679422007,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:25:44.249944",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0105917979,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.611117667287717,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:25:55.290345",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0118953628,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.615148702821766,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:26:06.321257",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.01789275459998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6373901240169797,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:26:17.167720",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0227528231,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6548404526806313,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:26:28.021106",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0222335477,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.650569542149981,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:26:38.958670",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.02025689689998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.643509434726424,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:26:50.001298",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0197974308,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.641963826704384,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:27:01.044400",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0185852571,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.638886160041101,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:27:11.886151",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0181814251,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.637875019546739,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:27:22.732982",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.03015683619998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6787066546136806,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:27:33.754053",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0255277924,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.664745672474826,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:27:44.669454",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0269284072,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.669259926186314,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:27:55.827762",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0266074122,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.66819831876318,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:28:07.020137",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0227625594,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.655728053872999,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:28:17.977055",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.02215421969998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.653770514058888,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:28:28.824051",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0240422635,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.658921409966785,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:28:39.769513",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0217637136,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6503393637575807,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:28:50.802239",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.01806328819998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6381775752627767,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:29:01.841851",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.00877711229998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6044546421083887,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:29:12.730401",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.02042734079998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6468803906588487,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:29:23.558969",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0236660146,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.658504999092408,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:29:34.483371",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0308006313,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6823745327019264,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:29:45.357113",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.031117736,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.683614762374466,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:29:56.206631",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0332583684,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6914904203927588,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:30:07.121939",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0341083164,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.6960196832661887,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:30:17.945195",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.04066591,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.719552468915729,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:30:28.783462",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0378076987,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.710369134989438,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:30:39.724204",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.04722557419998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.7440972830873336,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:30:50.648510",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0450983167,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.737203234433967,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:31:01.492544",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0362692391,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.706402613811809,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:31:12.334430",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0494681978,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.7519880505760455,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:31:23.139555",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.05355835379999,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.7668803923467205,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:31:34.001207",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0576445378,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.780021054450689,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:31:44.885999",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0596732104,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.788650313167389,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:31:55.833755",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0687237002,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.819547586747143,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:32:06.809734",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0489785001,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.7486989421790446,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:32:17.647719",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0654105942,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8031615306506974,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:32:28.514396",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0738143134,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8345948881743275,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:32:39.383388",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0735606697,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8337456759424193,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:32:50.276785",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0902631786,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.890816808921772,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:33:01.207961",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.08863291469999,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8848468922916823,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:33:12.035998",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0846369862,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8729012624523964,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:33:22.858745",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0995137776,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.9243205504039143,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:33:33.840342",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1010166735,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.9285880430658113,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:33:44.677425",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.08875049719998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8857236228721153,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:33:55.599219",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.07919620849998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8545983334379037,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:34:06.487963",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0621901067,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.7953720165576272,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:34:17.331596",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0849186327,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8741369014531895,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:34:28.719038",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.09601103149998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.9136501973793183,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:34:39.545852",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.08640851639998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.878326669329924,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:34:50.479054",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0811220784,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8582887498823624,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:35:01.346874",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0719804255,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8249378141054926,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:35:12.170612",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.06530107679998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.8016136532797358,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:35:23.128094",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.0833944435,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.861058047361885,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:35:33.999591",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1031476821,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.930371950076444,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:35:44.878016",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.10907333469999,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.952823428445471,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:35:55.724569",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.12151335689998,
+        "profit_usd": 0.0,
+        "profit_percentage": 3.996248301027652,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:36:06.599542",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.14227946009999,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.066828032478439,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:36:17.446807",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1775520596,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.186388971803722,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:36:28.310771",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1797896252,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.19378439810104,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:36:39.288446",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1769036232,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.183899928525393,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:36:50.322464",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1901284217,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.228255443462939,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:37:01.359765",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1693656727,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.156476845840387,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:37:12.180213",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1521807023,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.097999608509595,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:37:23.001293",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1720873682,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.166774487358972,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:37:33.834698",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1884859066,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.222268551735065,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:37:44.721772",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.191505404,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.231773404168844,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:37:55.762345",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1677043733,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.149289765405853,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:38:06.652583",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1734343053,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.166325379416964,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:38:17.552491",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1647351997,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.13607163044727,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:38:28.408498",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.159075048,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.116603501651518,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:38:39.442131",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1485571849,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.079634321524533,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:38:50.428878",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1628081048,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.130047712845807,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:39:01.268326",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1838851816,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.201895520273543,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:39:12.101045",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1931867792,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.233524337638483,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:39:22.921933",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2002623658,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.257423360570478,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:39:33.758084",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1910201829,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.225093557663625,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:39:44.665404",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.19670773869998,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.245164756215058,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:39:55.600991",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2064913226,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.276176325418424,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:40:06.479722",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1980558773,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.250538327638195,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:40:17.326839",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.190580726,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.220846387381689,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:40:28.170961",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2003428393,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.25218159674349,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:40:39.026816",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.192607568,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.225845392213916,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:40:49.877532",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.207804902,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.278487496684396,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:41:00.747173",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2110716464,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.289490407999402,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:41:11.584393",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2039235327,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.2636237833548085,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:41:22.426804",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1752242111,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.165244581386063,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:41:33.269254",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1930377287,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.225959913710626,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:41:44.242614",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1717013006,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.150243059947415,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:41:55.100644",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.1920455284,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.222962270762346,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:42:06.162894",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2035140658,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.260846929481654,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:42:17.019504",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2048440289,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.265776265834215,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:42:28.079351",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2098273459,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.281506311872732,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:42:38.922474",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2169229378,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.310436722464252,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "timestamp": "2024-12-16 11:42:49.840646",
+        "initial_balance": 219.9632122749,
+        "current_balance": 220.2100170276,
+        "profit_usd": 0.0,
+        "profit_percentage": 4.28621266284754,
+        "simulation_mode": true,
+        "trading_pairs": [
+            "BTCUSDT",
+            "ETHUSDT",
+            "BNBUSDT"
+        ]
+    }
+]

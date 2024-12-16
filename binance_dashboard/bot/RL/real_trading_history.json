@@ -1,0 +1,3992 @@
+[
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104114.95,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3907.99,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.42,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:22:17",
+        "total_balance_usd": 220.0030545484
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104108.64,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3910.82,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.62,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:23:17",
+        "total_balance_usd": 220.0106970446
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104116.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3911.41,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.59,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:24:18",
+        "total_balance_usd": 220.0123517273
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104116.01,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3910.8,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.15,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:25:18",
+        "total_balance_usd": 220.0051003243
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104108.44,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3910.34,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.61,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:26:17",
+        "total_balance_usd": 219.9958653939
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104098.17,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3913.15,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.41,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:27:17",
+        "total_balance_usd": 220.01121746729999
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104045.36,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3909.84,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.41,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:28:18",
+        "total_balance_usd": 219.9845297295
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104036.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3909.4,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.4,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:28:36",
+        "total_balance_usd": 219.982385868
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103999.08,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3908.36,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.4,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:29:18",
+        "total_balance_usd": 219.9758614384
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104086.3,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3911.11,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.91,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:30:17",
+        "total_balance_usd": 219.99885332169998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104057.52,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3909.04,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.7,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:31:17",
+        "total_balance_usd": 219.9883695866
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104086.51,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3910.39,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.13,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:32:17",
+        "total_balance_usd": 220.00045490489998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104042.15,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3908.5,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.96,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:33:17",
+        "total_balance_usd": 219.9890040682
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103980.57,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3905.6,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.67,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:34:18",
+        "total_balance_usd": 219.9718150315
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103985.3,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3907.2,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.15,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:35:18",
+        "total_balance_usd": 219.9821654545
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103965.05,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3907.81,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.28,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:36:17",
+        "total_balance_usd": 219.9827301206
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103989.75,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3907.39,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.15,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:37:18",
+        "total_balance_usd": 219.9830811455
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103884.52,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3901.41,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.3,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:38:18",
+        "total_balance_usd": 219.94679965859999
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103809.55,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3897.82,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.74,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:39:18",
+        "total_balance_usd": 219.9229169068
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103853.39,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3898.72,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.94,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:40:17",
+        "total_balance_usd": 219.93273646
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103909.21,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3901.4,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.46,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:41:18",
+        "total_balance_usd": 219.951945516
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104031.37,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3905.82,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.71,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:42:18",
+        "total_balance_usd": 219.9789187543
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104024.66,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3904.84,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.0,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:43:18",
+        "total_balance_usd": 219.9801270408
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104004.01,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3905.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.18,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:44:17",
+        "total_balance_usd": 219.9804290784
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103959.2,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3903.23,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.0,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:45:18",
+        "total_balance_usd": 219.969026966
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103985.46,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3902.5,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.27,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:46:17",
+        "total_balance_usd": 219.9744299717
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103944.3,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3902.33,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.03,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:47:18",
+        "total_balance_usd": 219.9658446181
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103984.39,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3903.2,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.14,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:48:18",
+        "total_balance_usd": 219.960208334
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103907.01,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3900.2,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.89,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:49:18",
+        "total_balance_usd": 219.9414657121
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103826.2,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3895.01,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 709.8,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:50:18",
+        "total_balance_usd": 219.906413392
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103822.43,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3894.72,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 709.92,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:51:19",
+        "total_balance_usd": 219.90702481579999
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103800.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3893.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 709.51,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:52:18",
+        "total_balance_usd": 219.8952633997
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103839.68,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3895.25,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.28,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:53:18",
+        "total_balance_usd": 219.91509714
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103845.85,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3894.13,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.0,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:54:18",
+        "total_balance_usd": 219.909760953
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103806.55,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3894.58,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 709.96,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:55:18",
+        "total_balance_usd": 219.9053816002
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103880.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3897.79,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.44,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:56:18",
+        "total_balance_usd": 219.9272245368
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103900.53,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3896.81,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.26,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:57:18",
+        "total_balance_usd": 219.9252680536
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103900.03,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3898.02,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.21,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:58:18",
+        "total_balance_usd": 219.9269423401
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103912.83,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3899.09,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.3,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 10:59:18",
+        "total_balance_usd": 219.9318571464
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103922.09,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3899.41,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.16,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:00:18",
+        "total_balance_usd": 219.9316923994
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103881.72,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3902.95,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 709.9,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:01:18",
+        "total_balance_usd": 219.9303479366
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 103959.17,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3906.89,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.92,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:02:18",
+        "total_balance_usd": 219.96153604699998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104022.91,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3908.61,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.71,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:03:18",
+        "total_balance_usd": 219.9697698695
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104051.07,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3911.14,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.93,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:04:18",
+        "total_balance_usd": 219.9812360737
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104050.01,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3909.61,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.86,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:05:18",
+        "total_balance_usd": 219.977088738
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104104.91,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3913.79,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.2,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:06:18",
+        "total_balance_usd": 219.9967191598
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104080.19,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3910.73,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.04,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:07:18",
+        "total_balance_usd": 219.98542969099998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104093.89,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3912.4,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.18,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:08:18",
+        "total_balance_usd": 219.9923383628
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104175.5,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3913.17,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.29,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:09:18",
+        "total_balance_usd": 220.0052107263
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104155.3,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3910.2,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.32,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:10:18",
+        "total_balance_usd": 219.9972503644
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104221.86,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3913.16,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.6,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:11:18",
+        "total_balance_usd": 220.0150217888
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104217.57,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3914.39,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.44,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:12:18",
+        "total_balance_usd": 220.0147716834
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104180.58,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3911.27,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.97,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:13:18",
+        "total_balance_usd": 219.9976349063
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104188.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3912.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.36,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:14:18",
+        "total_balance_usd": 220.00533520919998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104187.62,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3909.49,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.19,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:15:18",
+        "total_balance_usd": 219.9979386849
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104172.69,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3906.31,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.18,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:16:18",
+        "total_balance_usd": 219.9896443068
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104220.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3910.53,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.29,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:17:18",
+        "total_balance_usd": 220.0052876363
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104274.26,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3912.27,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.66,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:18:18",
+        "total_balance_usd": 220.020372329
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104217.31,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3907.77,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.14,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:19:18",
+        "total_balance_usd": 219.9973872436
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104211.73,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3908.45,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.35,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:20:18",
+        "total_balance_usd": 220.0009547219
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104188.53,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3908.59,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.0,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:21:18",
+        "total_balance_usd": 219.9936432414
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104196.02,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3906.54,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.87,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:22:18",
+        "total_balance_usd": 219.98866252649998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104260.02,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3908.59,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.0,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:23:18",
+        "total_balance_usd": 220.0022492076
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104193.97,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3905.02,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 710.81,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:24:18",
+        "total_balance_usd": 219.9845531193
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104259.51,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3905.79,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.94,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:25:18",
+        "total_balance_usd": 220.0094756556
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104295.61,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3908.13,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.25,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:26:18",
+        "total_balance_usd": 220.02275161929998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104350.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3909.59,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.98,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:27:18",
+        "total_balance_usd": 220.02851726059998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104329.76,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3909.79,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.68,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:28:19",
+        "total_balance_usd": 220.0223676284
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104332.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3909.19,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.69,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:29:18",
+        "total_balance_usd": 220.02157438429998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104388.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3912.81,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 711.91,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:30:18",
+        "total_balance_usd": 220.0385719677
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104402.79,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3915.68,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.28,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:31:18",
+        "total_balance_usd": 220.0511652618
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104490.28,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3915.85,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.6,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:32:18",
+        "total_balance_usd": 220.0664246584
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104572.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3921.2,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.06,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:33:18",
+        "total_balance_usd": 220.0932689282
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104547.79,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3921.14,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.84,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:34:18",
+        "total_balance_usd": 220.087218225
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104560.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3916.29,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 712.48,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:35:18",
+        "total_balance_usd": 220.07405229559998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105012.48,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3933.38,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.59,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:36:18",
+        "total_balance_usd": 220.1779204597
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105000.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3932.49,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.6,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:37:18",
+        "total_balance_usd": 220.174775222
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 104968.01,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3928.6,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.5,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:38:18",
+        "total_balance_usd": 220.1617732188
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105171.49,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3935.26,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.75,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:39:18",
+        "total_balance_usd": 220.2030157587
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105144.51,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3932.6,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.48,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:40:23",
+        "total_balance_usd": 220.1907460794
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105134.88,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3930.2,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.19,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:41:18",
+        "total_balance_usd": 220.1808107837
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105249.99,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3934.25,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.41,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:42:19",
+        "total_balance_usd": 220.20578402889998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105276.44,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3935.47,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.55,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:42:59",
+        "total_balance_usd": 220.2133275457
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105264.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3936.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.59,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:43:02",
+        "total_balance_usd": 220.2134384373
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105327.8,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3936.4,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.71,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:43:21",
+        "total_balance_usd": 220.2235639377
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105281.63,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3936.6,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.64,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:43:36",
+        "total_balance_usd": 220.2174462602
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 105230.78,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3936.41,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 713.45,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 11:43:41",
+        "total_balance_usd": 220.2083399479
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106272.02,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3939.67,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 716.4,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:41:01",
+        "total_balance_usd": 220.3806503056
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106304.95,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3940.01,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 716.53,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:41:05",
+        "total_balance_usd": 220.3870767801
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106412.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3943.81,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 716.96,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:42:05",
+        "total_balance_usd": 220.41345896119998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106449.99,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3943.63,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.08,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:43:05",
+        "total_balance_usd": 220.4193174538
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106483.56,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3943.88,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.15,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:44:05",
+        "total_balance_usd": 220.4248183433
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106454.47,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3943.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.5,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:45:05",
+        "total_balance_usd": 220.4243551536
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106449.96,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3942.59,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.34,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:46:05",
+        "total_balance_usd": 220.4207985646
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106343.53,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3938.38,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.01,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:47:05",
+        "total_balance_usd": 220.3950420661
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106236.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3935.21,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 716.66,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:48:05",
+        "total_balance_usd": 220.3709589402
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106106.31,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3932.65,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.16,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:49:05",
+        "total_balance_usd": 220.357082093
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106054.59,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3932.4,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 716.88,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:50:05",
+        "total_balance_usd": 220.3465171078
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106081.42,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3935.4,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 716.48,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:51:05",
+        "total_balance_usd": 220.3502627152
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106158.22,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3938.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 716.55,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:52:05",
+        "total_balance_usd": 220.36566763209998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106136.19,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3938.48,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.22,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:53:05",
+        "total_balance_usd": 220.3731616756
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106124.09,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3940.01,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.5,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:54:05",
+        "total_balance_usd": 220.3786040092
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106127.94,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3944.6,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.72,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:55:06",
+        "total_balance_usd": 220.3912637756
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106228.35,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3944.2,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.82,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:56:06",
+        "total_balance_usd": 220.4039221784
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106181.33,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3943.01,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.93,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:57:06",
+        "total_balance_usd": 220.3973900625
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106295.69,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3944.09,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.16,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:58:06",
+        "total_balance_usd": 220.4164701274
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106372.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3944.01,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.49,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 12:59:06",
+        "total_balance_usd": 220.4300207803
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106323.29,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3940.27,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.46,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:00:06",
+        "total_balance_usd": 220.41626575639998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106377.69,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3941.77,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.41,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:01:06",
+        "total_balance_usd": 220.4251289049
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106283.54,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3941.6,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.14,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:02:06",
+        "total_balance_usd": 220.409753301
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106275.11,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3944.01,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.99,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:03:06",
+        "total_balance_usd": 220.42521239709998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106196.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3945.86,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.51,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:04:06",
+        "total_balance_usd": 220.4265185797
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106230.24,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3949.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.5,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:05:06",
+        "total_balance_usd": 220.4367832862
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106264.47,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3956.81,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 720.0,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:06:06",
+        "total_balance_usd": 220.4633791286
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106185.35,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3957.26,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.49,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:07:06",
+        "total_balance_usd": 220.4477623233
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106269.58,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3960.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.2,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:08:06",
+        "total_balance_usd": 220.4594058944
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106380.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3961.16,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 720.11,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:09:06",
+        "total_balance_usd": 220.4874947817
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106512.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3965.57,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.9,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:10:06",
+        "total_balance_usd": 220.509325743
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106651.78,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3969.19,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.9,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:11:06",
+        "total_balance_usd": 220.5333924594
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106536.02,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3960.41,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.84,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:12:06",
+        "total_balance_usd": 220.4873641724
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106426.73,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3961.33,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.85,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:13:06",
+        "total_balance_usd": 220.4761849469
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106496.99,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3960.63,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.32,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:14:06",
+        "total_balance_usd": 220.47597629659998
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106563.2,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3960.98,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.43,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:15:06",
+        "total_balance_usd": 220.4861548081
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106691.99,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3965.42,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.84,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:16:06",
+        "total_balance_usd": 220.516159841
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106796.0,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3965.4,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.65,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:17:07",
+        "total_balance_usd": 220.5260355755
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106640.02,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3963.24,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.63,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:18:07",
+        "total_balance_usd": 220.5026644937
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106648.01,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3968.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.04,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:19:07",
+        "total_balance_usd": 220.5187676226
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106730.61,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3969.2,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.4,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:20:07",
+        "total_balance_usd": 220.5360467798
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106608.96,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3963.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.0,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:21:07",
+        "total_balance_usd": 220.5035183648
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106688.06,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3958.01,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 719.01,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:22:07",
+        "total_balance_usd": 220.5031975275
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106578.01,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3955.0,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.92,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:23:07",
+        "total_balance_usd": 220.4689852962
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106652.7,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3952.97,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 718.02,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:24:07",
+        "total_balance_usd": 220.4752875254
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 106655.99,
+                "free": 0.00012038,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3953.49,
+                "free": 0.002,
+                "locked": 0.0
+            },
+            {
+                "asset": "BNB",
+                "current_price": 717.9,
+                "free": 0.01371047,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 189.88610383,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2024-12-16 13:25:07",
+        "total_balance_usd": 220.4750783192
+    }
+]

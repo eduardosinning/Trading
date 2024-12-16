@@ -1,0 +1,36 @@
+{
+    "BTCUSDT": [
+        "volatility_pct_100",
+        "BB_lower",
+        "high",
+        "SMA",
+        "volatility",
+        "SMA"
+    ],
+    "ETHUSDT": [
+        "BB_lower",
+        "SMA_20",
+        "SMA_10", 
+        "BB_lower",
+        "RSI",
+        "RSI"
+    ],
+    "BNBUSDT": [
+        "close",
+        "high",
+        "low",
+        "open"
+    ],
+    "TRXUSDT": [
+        "close",
+        "high",
+        "low",
+        "open"
+    ],
+    "TROYUSDT": [
+        "close",
+        "high",
+        "low",
+        "open"
+    ]
+}

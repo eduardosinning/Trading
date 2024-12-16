@@ -1,0 +1,33 @@
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.dashboard, name='dashboard'),
+    path('execute_strategy_1/', views.execute_strategy_1, name='execute_strategy_1'),
+    path('execute_strategy_2/', views.execute_strategy_2, name='execute_strategy_2'),
+    path('stop_strategy_1/', views.stop_strategy_1, name='stop_strategy_1'),
+    path('stop_strategy_2/', views.stop_strategy_2, name='stop_strategy_2'),
+    path('get_total_balance_usd/', views.get_balances, name='get_total_balance_usd'),
+    path('get_balance_simulation/<int:strategy_number>/', views.get_balances_simulations, name='get_balance_simulation'),
+    path('get_klines/<str:symbol>/<str:interval>/<int:limit>/', views.get_klines, name='get_klines'),
+    path('get_trades/<str:symbol>/<str:is_simulation>/', views.get_trades, name='get_trades'),
+    path('get_bot_code/<str:file_name>/', views.get_bot_code, name='get_bot_code'),
+    path('save_bot_code/', views.save_bot_code, name='save_bot_code'),
+    path('run_bot/', views.run_bot, name='run_bot'),
+    path('get_bot_output/', views.get_bot_output, name='get_bot_output'),
+    path('get_asset_info/<str:symbol>/', views.get_asset_info, name='get_asset_info'),
+    path('get_file_tree/', views.get_file_tree, name='get_file_tree'),
+    path('create_file_or_folder/', views.create_file_or_folder, name='create_file_or_folder'),
+    path('get_file_content/', views.get_file_content, name='get_file_content'),
+    path('bot_status/', views.bot_status, name='bot_status'),
+    path('stop_bot/', views.stop_bot, name='stop_bot'),
+    path('move-file/', views.move_file, name='move_file'),
+    path('delete-file-or-folder/', views.delete_file_or_folder, name='delete_file_or_folder'),
+    path('execute-terminal-command/', views.execute_terminal_command, name='execute_terminal_command'),
+    path('chat-gpt/', views.chat_gpt, name='chat_gpt'),
+    path('local_llm_chat/', views.local_llm_chat, name='local_llm_chat'),
+    path('get_predictions/<str:symbol>/<str:interval>/', views.get_predictions, name='get_predictions'),
+    path('save_chart_config/', views.save_chart_config, name='save_chart_config'),
+    path('get_trading_history/', views.get_trading_history, name='get_trading_history'),
+    path('get_strategy_trading_history/<int:strategy_number>/', views.get_strategy_trading_history, name='get_strategy_trading_history'),
+]
