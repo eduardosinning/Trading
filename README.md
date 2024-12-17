@@ -37,5 +37,5 @@ La plataforma tiene dos componentes principales:
 
 1. **Clonar el repositorio:**  
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio_trading.git
-   cd tu_repositorio_trading
+   git clone https://github.com/eduardosinning/Trading.git
+   cd Trading
