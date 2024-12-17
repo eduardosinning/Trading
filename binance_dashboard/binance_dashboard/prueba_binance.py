@@ -2,8 +2,8 @@ from binance.client import Client
 from binance.exceptions import BinanceAPIException, BinanceRequestException
 
 
-api_key = 'akOyfC3602O1NAnRHqMCItE6Z7R5phRTr2e33pKKigzHUP3TNtq1u6Nixh8Z6I9J'
-api_secret = 'UyywNH3aUIpCsIUw4u2Zedy5p7hQ0EHKtSAJzPAEh1XR3x0iYzMVhpFpkCzMJb4N'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret)
 
 # Sincronizar el tiempo del cliente con el servidor de Binance
