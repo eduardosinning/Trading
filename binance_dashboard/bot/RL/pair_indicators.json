@@ -1,11 +1,11 @@
 {
     "BTCUSDT": [
-        "volatility_pct_100",
-        "BB_lower",
-        "high",
-        "SMA",
+        "MACD",
         "volatility",
-        "SMA"
+        "RSI",
+        "SMA_10",
+        "BB_lower",
+        "close"
     ],
     "ETHUSDT": [
         "BB_lower",

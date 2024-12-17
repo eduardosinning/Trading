@@ -24,11 +24,16 @@ from tensorflow.keras.optimizers import Adam
 tf.compat.v1.enable_eager_execution()
 K.clear_session()
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
 class BinanceView:
     def __init__(self):
         
-        self.api_key = 'D4OQR14mDgctNVmHwVcwbtCXBU4kt2sEpsm6FDHB367fA08sHDG8GPGpC3piWzZg'
-        self.api_secret = '2C1vafJhDtZvpNwQ68UY82jlBtRJ1NloSNguMoa6ShvVtUr8w21Uoed2OWAs7rOj'
+        self.api_key = os.getenv('BINANCE_API_KEY')
+        self.api_secret = os.getenv('BINANCE_SECRET_KEY')
         self.client = Client(self.api_key, self.api_secret)
     
     def get_binance_data(self, symbol, interval='1m', limit=1000):

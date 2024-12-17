@@ -4,7 +4,6 @@ import openai
 import pandas as pd
 import numpy as np
 from datetime import datetime
-import config
 import logging
 import ta
 from trading_env import TradingEnv
@@ -224,7 +223,7 @@ class TradingBot:
                                 'qty': float(order['executedQty']),
                                 'quantity': float(order['executedQty']),
                                 'time': str(datetime.fromtimestamp(order['time'] / 1000)),
-                                'strategy': strategy
+                                'strategy': self.strategy
                             }
                             all_orders.append(order_data)
                 except Exception as e:
@@ -787,13 +786,23 @@ class TradingBot:
                 quantity: Cantidad a comprar o vender
             """
             try:
-                df = self.get_historical_data(pair)
+                df = self.get_historical_data(pair, self.interval, limit=100)
                 if df is None or df.empty:
                     return None, 0.0
                     
                 df = self.analyze_market(df)
                 if df is None or df.empty:
                     return None, 0.0
+                df = df[['close','RSI','BB_lower','BB_upper','SMA_20']]
+                #print(df)
+                # Eliminar filas con valores NaN
+                df = df.dropna()
+                #print(df)
+                # Verificar si el df quedó vacío después de eliminar NaN
+                if df.empty:
+                    return None, 0.0
+                    
+                
 
                 current_price = float(df.iloc[-1]['close'])
                 sma_20 = df.iloc[-1]['SMA_20']
@@ -801,8 +810,8 @@ class TradingBot:
                 bb_lower = df.iloc[-1]['BB_lower']
                 bb_upper = df.iloc[-1]['BB_upper']
                 # Media móvil de la fuerza del mercado para suavizar la señal
-                bullish_strength = df.iloc[-1]['bullish_market_strength_sma']
-                bearish_strength = df.iloc[-1]['bearish_market_strength_sma']
+                #bullish_strength = df.iloc[-1]['bullish_market_strength_sma']
+                #bearish_strength = df.iloc[-1]['bearish_market_strength_sma']
 
                 # Inicializar quantity
                 quantity = 0.0
@@ -814,8 +823,7 @@ class TradingBot:
                 # Señal de compra: precio bajo + RSI bajo + cerca de BB inferior + fuerza alcista alta
                 if (current_price < sma_20 and 
                     rsi < 30 and 
-                    current_price <= bb_lower and 
-                    bullish_strength > bearish_strength):
+                    current_price <= bb_lower):
                     optimal_quantity = self.calculate_position_size(pair)
                     if optimal_quantity is not None:
                         quantity = self.format_quantity(pair, optimal_quantity, current_price, side='BUY')
@@ -832,8 +840,7 @@ class TradingBot:
                         side = 'SELL'
                     elif (current_price > sma_20 and 
                           rsi > 70 and 
-                          current_price >= bb_upper and
-                          bearish_strength > bullish_strength):  # Fuerza de venta mayor que de compra
+                          current_price >= bb_upper):  # Fuerza de venta mayor que de compra
                         risk_percentage = 10.0
                         optimal_quantity = self.calculate_sell_size(pair, risk_percentage)
                         if optimal_quantity is not None:
@@ -912,10 +919,11 @@ class TradingBot:
                 print(df)
                 if df is not None:
                     df = self.analyze_market(df)
-                    df = df.dropna()
+                    #df = df.dropna()
+                    print(df)
                     indicators = self.get_technical_indicators(pair)
-                    #print(indicators)
-
+                    print(indicators)
+                    print(df)
                     balance_asset = self.get_account_balance(pair.replace('USDT', ''))
                     balance_usdt = self.get_account_balance('USDT')
                     env = TradingEnv(pair,df,technical_indicators=indicators, initial_balance_usd=balance_usdt, initial_balance_asset=balance_asset)

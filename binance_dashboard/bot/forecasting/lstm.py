@@ -19,6 +19,9 @@ from tensorflow.keras import backend as K
 from tensorflow.keras.models import Sequential, load_model
 from tensorflow.keras.layers import LSTM, Dense, Dropout
 from tensorflow.keras.optimizers import Adam
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Configurar TensorFlow para usar ejecución eager
 tf.compat.v1.enable_eager_execution()
@@ -28,8 +31,8 @@ class BinanceView:
     def __init__(self):
         
         
-        self.api_key = 'akOyfC3602O1NAnRHqMCItE6Z7R5phRTr2e33pKKigzHUP3TNtq1u6Nixh8Z6I9J'
-        self.api_secret = 'UyywNH3aUIpCsIUw4u2Zedy5p7hQ0EHKtSAJzPAEh1XR3x0iYzMVhpFpkCzMJb4N'
+        self.api_key = os.getenv('BINANCE_API_KEY')
+        self.api_secret = os.getenv('BINANCE_SECRET_KEY')
         self.client = Client(self.api_key, self.api_secret)
     
     def get_binance_data(self, symbol, interval='1m', limit=1000):
