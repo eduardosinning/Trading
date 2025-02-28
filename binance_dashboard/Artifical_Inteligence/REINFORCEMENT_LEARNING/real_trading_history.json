@@ -1,0 +1,5402 @@
+[
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102174.53,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3254.01,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9753,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:12:51",
+        "total_balance_usd": 2596.4314258433237
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102174.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3254.01,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9753,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:12:57",
+        "total_balance_usd": 2596.419034222524
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102136.9,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3255.98,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9769,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:13:56",
+        "total_balance_usd": 2595.626699550952
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102117.64,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3253.99,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.976,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:14:58",
+        "total_balance_usd": 2595.0932438457794
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102132.45,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3254.88,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9788,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:15:56",
+        "total_balance_usd": 2595.5412152547033
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102157.51,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3256.63,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9805,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:16:56",
+        "total_balance_usd": 2596.22729616554
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102161.14,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3258.79,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9818,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:17:56",
+        "total_balance_usd": 2596.4029718274437
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102214.11,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3263.99,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9937,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:18:56",
+        "total_balance_usd": 2598.1057571657957
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102230.68,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3264.86,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9933,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:19:57",
+        "total_balance_usd": 2598.5127550842635
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102272.7,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3266.39,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9976,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:20:58",
+        "total_balance_usd": 2599.6642694043076
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102280.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3266.39,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9982,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:22:02",
+        "total_balance_usd": 2599.853916741156
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102270.11,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3266.65,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 3.0008,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:22:58",
+        "total_balance_usd": 2599.691652647164
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102289.47,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3265.5,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9985,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:23:53",
+        "total_balance_usd": 2600.0641240826794
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102290.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3265.51,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9982,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:24:00",
+        "total_balance_usd": 2600.069525293956
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102290.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3265.5,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9982,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:24:01",
+        "total_balance_usd": 2600.0692674320558
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102260.43,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3264.23,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9946,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:24:58",
+        "total_balance_usd": 2599.238927920868
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102240.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3263.21,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9931,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:25:58",
+        "total_balance_usd": 2598.6871539287476
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102251.99,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3264.1,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9934,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:26:58",
+        "total_balance_usd": 2599.003550689672
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102220.74,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3262.9,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9935,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:27:59",
+        "total_balance_usd": 2598.23049346908
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102196.69,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3261.57,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9914,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:28:58",
+        "total_balance_usd": 2597.569011268812
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102212.45,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3263.14,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.992,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:29:58",
+        "total_balance_usd": 2598.0005067619595
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102220.75,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.0,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.989,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:30:58",
+        "total_balance_usd": 2598.04007873512
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102222.37,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3258.7,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9883,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:31:58",
+        "total_balance_usd": 2598.0271366510638
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102196.69,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3257.79,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9889,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:33:00",
+        "total_balance_usd": 2597.4071655354114
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102185.59,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3257.63,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9888,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:34:00",
+        "total_balance_usd": 2597.1359513436037
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102143.78,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3256.38,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.989,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:34:59",
+        "total_balance_usd": 2596.11253454852
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102171.65,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3258.09,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9911,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:35:59",
+        "total_balance_usd": 2596.874846253788
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102181.59,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3256.59,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9913,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:36:59",
+        "total_balance_usd": 2597.0781874812037
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102196.2,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3258.18,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9929,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:37:59",
+        "total_balance_usd": 2597.5085437262314
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102207.29,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3259.79,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9918,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:38:59",
+        "total_balance_usd": 2597.786010104244
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102183.92,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3258.71,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9902,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:39:59",
+        "total_balance_usd": 2597.160053665716
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102183.92,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3258.01,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9902,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:40:59",
+        "total_balance_usd": 2597.142003332716
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102128.02,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3255.19,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.985,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:42:00",
+        "total_balance_usd": 2595.6032892557
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102094.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3252.24,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9839,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:43:00",
+        "total_balance_usd": 2594.688197502912
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102134.06,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3255.06,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9874,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:43:59",
+        "total_balance_usd": 2595.805669470392
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102141.41,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3254.43,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9877,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:44:59",
+        "total_balance_usd": 2595.9722998369157
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102141.04,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3257.93,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9917,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:46:01",
+        "total_balance_usd": 2596.1567326834356
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102243.4,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3263.03,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9933,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:47:00",
+        "total_balance_usd": 2598.768684465363
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102268.33,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3263.58,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9941,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:48:01",
+        "total_balance_usd": 2599.3975494263277
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102268.34,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3262.63,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9934,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:49:01",
+        "total_balance_usd": 2599.3552661443723
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102242.31,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3261.53,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.991,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:50:01",
+        "total_balance_usd": 2598.6448064163797
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102226.33,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3259.78,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9905,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:51:01",
+        "total_balance_usd": 2598.20600175764
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102220.34,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3261.51,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.991,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:52:02",
+        "total_balance_usd": 2598.12074471378
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102235.29,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3262.7,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9923,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:53:06",
+        "total_balance_usd": 2598.5411638241835
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102274.27,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3263.58,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9932,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:54:19",
+        "total_balance_usd": 2599.515925247256
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102287.29,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3262.54,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9933,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:55:02",
+        "total_balance_usd": 2599.8019496878633
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102252.5,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3261.11,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.992,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:56:02",
+        "total_balance_usd": 2598.9025538982596
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102250.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.55,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9921,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:57:02",
+        "total_balance_usd": 2598.831113489268
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102244.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.95,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9927,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:58:02",
+        "total_balance_usd": 2598.7141357701157
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102250.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.96,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9927,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 14:59:02",
+        "total_balance_usd": 2598.857373872016
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102265.58,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3262.07,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9931,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:00:02",
+        "total_balance_usd": 2599.267330095348
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102228.44,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.7,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9928,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:01:03",
+        "total_balance_usd": 2598.339230457224
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102256.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3261.61,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9924,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:02:03",
+        "total_balance_usd": 2599.0093902632916
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102240.86,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.2,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9915,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:03:03",
+        "total_balance_usd": 2598.5888320127196
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102210.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3258.16,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9916,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:04:05",
+        "total_balance_usd": 2597.8034081081278
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102221.83,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3258.43,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9907,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:05:04",
+        "total_balance_usd": 2598.069105135956
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102270.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3261.67,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9926,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:06:03",
+        "total_balance_usd": 2599.349469609108
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102257.6,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3262.87,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9926,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:07:04",
+        "total_balance_usd": 2599.084920541108
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102256.33,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.64,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9905,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:08:04",
+        "total_balance_usd": 2598.9430790810397
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102228.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.89,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9927,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:09:04",
+        "total_balance_usd": 2598.3310696583158
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102225.71,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.73,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9938,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:10:07",
+        "total_balance_usd": 2598.3006976078045
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102231.36,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3261.3,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.995,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:11:05",
+        "total_balance_usd": 2598.4809349509997
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102274.07,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3265.74,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9941,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:12:06",
+        "total_balance_usd": 2599.5900320263277
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102274.07,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3264.25,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9933,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:13:07",
+        "total_balance_usd": 2599.531010943964
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102274.08,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3266.54,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9935,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:14:06",
+        "total_balance_usd": 2599.5954495342803
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102225.08,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3264.02,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9912,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:15:06",
+        "total_balance_usd": 2598.303572355096
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102135.93,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3261.55,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9868,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:16:07",
+        "total_balance_usd": 2596.0021342738437
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102133.34,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.2,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9848,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:17:06",
+        "total_balance_usd": 2595.8541039655834
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102192.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3262.01,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.987,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:18:06",
+        "total_balance_usd": 2597.35529617886
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102237.88,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3265.54,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9904,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:19:09",
+        "total_balance_usd": 2598.6271922166316
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102232.08,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3266.02,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9909,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:20:07",
+        "total_balance_usd": 2598.514230142872
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 102154.28,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 3260.2,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.9856,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-01 15:21:06",
+        "total_balance_usd": 2596.3737046624474
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99119.99,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2763.36,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.5957,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:02:31",
+        "total_balance_usd": 2501.215083017456
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99108.73,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2763.44,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.5958,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:03:32",
+        "total_balance_usd": 2500.951394619664
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99136.23,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2764.02,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.5992,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:04:00",
+        "total_balance_usd": 2501.7092252617354
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99136.23,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2763.88,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6011,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:04:06",
+        "total_balance_usd": 2501.7545393858877
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99179.31,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2766.93,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6047,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:04:37",
+        "total_balance_usd": 2502.9524838552757
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99210.11,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2767.44,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6046,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:04:43",
+        "total_balance_usd": 2503.697025086768
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99215.72,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2767.7,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.603,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:05:20",
+        "total_balance_usd": 2503.79621670204
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99215.72,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2767.83,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6039,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:05:25",
+        "total_balance_usd": 2503.8227435234116
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99280.55,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2772.61,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6107,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:11:45",
+        "total_balance_usd": 2505.666000108556
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99264.04,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2772.07,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6107,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:11:50",
+        "total_balance_usd": 2505.2586416055556
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99239.8,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2771.38,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6101,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:12:50",
+        "total_balance_usd": 2504.647759220408
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99239.9,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2770.86,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6113,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:13:50",
+        "total_balance_usd": 2504.6676328945036
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99228.26,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2770.18,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6135,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:14:50",
+        "total_balance_usd": 2504.42936568268
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99262.09,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2772.31,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6155,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:15:50",
+        "total_balance_usd": 2505.34195966874
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99304.78,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2774.92,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6187,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:16:50",
+        "total_balance_usd": 2506.508964669296
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99326.43,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2776.25,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6213,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:17:51",
+        "total_balance_usd": 2507.126129560603
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99358.65,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2779.34,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6246,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:18:50",
+        "total_balance_usd": 2508.0585863709675
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99368.59,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2777.18,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6223,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:19:51",
+        "total_balance_usd": 2508.180534777784
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99352.02,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2775.55,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6204,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:20:50",
+        "total_balance_usd": 2507.694715334532
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99368.59,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2777.6,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6227,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:21:51",
+        "total_balance_usd": 2508.201664807216
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99323.66,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2773.52,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6188,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:22:50",
+        "total_balance_usd": 2506.9253501159037
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99315.05,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2773.61,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6195,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:23:51",
+        "total_balance_usd": 2506.74051893046
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99261.3,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2773.87,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6161,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:24:51",
+        "total_balance_usd": 2505.378810137988
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99230.22,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2776.35,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6178,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:25:51",
+        "total_balance_usd": 2504.745896521924
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99270.42,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2780.83,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6212,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:26:51",
+        "total_balance_usd": 2505.9069348129956
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99249.97,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2781.14,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6231,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:27:51",
+        "total_balance_usd": 2505.476528404648
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99207.75,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2783.84,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6217,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:28:51",
+        "total_balance_usd": 2504.5039974251354
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99269.17,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2787.51,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6239,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:29:51",
+        "total_balance_usd": 2506.118922862212
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99366.79,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2795.0,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6385,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:30:51",
+        "total_balance_usd": 2509.01429371168
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99401.11,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2798.18,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6409,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:31:51",
+        "total_balance_usd": 2509.975939746472
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99511.31,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2803.71,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6472,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:32:50",
+        "total_balance_usd": 2512.9068301018756
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99486.8,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2805.0,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6413,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:33:51",
+        "total_balance_usd": 2512.204097519504
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99600.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2813.46,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6506,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:34:51",
+        "total_balance_usd": 2515.3592802538483
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99726.6,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2818.42,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6578,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:35:51",
+        "total_balance_usd": 2518.6894597536243
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99565.19,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2812.49,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6496,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:36:51",
+        "total_balance_usd": 2514.478994383068
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99482.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2810.05,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6441,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:37:51",
+        "total_balance_usd": 2512.292270694828
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99450.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2802.3,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6379,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:38:51",
+        "total_balance_usd": 2511.1702190830315
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99533.05,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2806.78,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6445,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:39:51",
+        "total_balance_usd": 2513.4345349247596
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99461.88,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2798.13,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6386,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:40:51",
+        "total_balance_usd": 2511.363577947388
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99425.47,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2798.51,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6344,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:41:51",
+        "total_balance_usd": 2510.3975767320517
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99400.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2796.44,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6346,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:42:51",
+        "total_balance_usd": 2509.742636415168
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99346.2,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2795.42,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6332,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:43:51",
+        "total_balance_usd": 2508.397990645256
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99370.42,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2796.81,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6325,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:44:51",
+        "total_balance_usd": 2508.9929723163
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99273.14,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2788.99,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6241,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:45:51",
+        "total_balance_usd": 2506.2568415970277
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99250.16,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2791.95,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6239,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:46:51",
+        "total_balance_usd": 2505.780404485412
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99189.84,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2791.21,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6253,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:47:51",
+        "total_balance_usd": 2504.3599440957237
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99262.82,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2796.72,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6313,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:48:51",
+        "total_balance_usd": 2506.395639766304
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99278.73,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2799.82,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.629,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:49:51",
+        "total_balance_usd": 2506.79548887132
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99230.36,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2797.87,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6276,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:50:51",
+        "total_balance_usd": 2505.5564973623077
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99246.27,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2796.87,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6238,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:51:51",
+        "total_balance_usd": 2505.811998727204
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99269.58,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2798.06,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6246,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:52:52",
+        "total_balance_usd": 2506.418762184968
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99368.01,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2805.75,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6326,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:53:52",
+        "total_balance_usd": 2509.1686454159076
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99449.02,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2812.34,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6381,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:54:53",
+        "total_balance_usd": 2511.4106706058483
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99536.77,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2811.76,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6461,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:55:53",
+        "total_balance_usd": 2513.692797218288
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99454.12,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2807.14,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6445,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:56:53",
+        "total_balance_usd": 2511.56291289596
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99428.61,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2807.61,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6436,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:57:53",
+        "total_balance_usd": 2510.9439534681874
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99403.49,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2807.5,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6478,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:58:54",
+        "total_balance_usd": 2510.4506545936238
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99362.03,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2804.39,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6393,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 09:59:54",
+        "total_balance_usd": 2509.163594704644
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99258.86,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2801.99,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6296,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:00:55",
+        "total_balance_usd": 2506.3933917532677
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99385.34,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2809.11,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6384,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:01:54",
+        "total_balance_usd": 2509.817609137172
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99358.32,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2813.34,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6481,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:02:54",
+        "total_balance_usd": 2509.532567908648
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99400.62,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2815.78,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6503,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:03:54",
+        "total_balance_usd": 2510.660145967224
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99444.81,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2817.31,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6526,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:04:54",
+        "total_balance_usd": 2511.811872325908
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99456.03,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2817.19,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.651,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:05:54",
+        "total_balance_usd": 2512.03495171338
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99413.06,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2814.44,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6457,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:06:54",
+        "total_balance_usd": 2510.803590129456
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99512.16,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2819.83,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6543,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:07:54",
+        "total_balance_usd": 2513.5255809946443
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99507.81,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2820.64,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.655,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:08:54",
+        "total_balance_usd": 2513.4608318364
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99471.09,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2818.8,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6515,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:09:54",
+        "total_balance_usd": 2512.4482226687196
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99432.1,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2817.54,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.65,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:10:54",
+        "total_balance_usd": 2511.4479744486002
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99504.68,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2825.85,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6583,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:11:54",
+        "total_balance_usd": 2513.6055634555637
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99434.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2820.3,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6535,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:12:54",
+        "total_balance_usd": 2511.65454491828
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99367.48,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2817.08,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6448,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:13:54",
+        "total_balance_usd": 2509.7623178311837
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99499.99,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2826.45,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6511,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:14:54",
+        "total_balance_usd": 2513.323875348588
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99380.43,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2823.99,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.645,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:15:55",
+        "total_balance_usd": 2510.2542493368996
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99345.68,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2821.23,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.64,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:16:54",
+        "total_balance_usd": 2509.2262376921
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99359.72,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2823.67,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6425,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:17:54",
+        "total_balance_usd": 2509.6881036925
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99435.95,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2827.17,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6425,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:18:55",
+        "total_balance_usd": 2511.5949193067
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99411.59,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2829.22,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6429,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:19:54",
+        "total_balance_usd": 2511.077581051432
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99386.94,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2830.2,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6487,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:20:54",
+        "total_balance_usd": 2510.664788561296
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99458.12,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2832.96,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.653,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:21:54",
+        "total_balance_usd": 2512.5429038614398
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99439.98,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2832.06,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6447,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:22:54",
+        "total_balance_usd": 2511.8736978999755
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99409.94,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2830.09,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6406,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:23:54",
+        "total_balance_usd": 2511.001471450348
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99419.75,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2828.12,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6369,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:24:54",
+        "total_balance_usd": 2511.089171924352
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99358.02,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2824.36,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6339,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:25:54",
+        "total_balance_usd": 2509.4439387585116
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99450.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2826.86,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6359,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:26:54",
+        "total_balance_usd": 2511.7517904608717
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99545.35,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2831.77,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6417,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:27:55",
+        "total_balance_usd": 2514.2999424974364
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99467.71,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2830.91,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6421,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:28:55",
+        "total_balance_usd": 2512.437901898068
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99478.27,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2829.5,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6431,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:29:55",
+        "total_balance_usd": 2512.6789381666476
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99456.73,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2828.43,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6418,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:30:55",
+        "total_balance_usd": 2512.1045734354434
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99414.89,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2825.35,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.635,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:31:56",
+        "total_balance_usd": 2510.8530059929
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99425.38,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2821.21,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6336,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:32:56",
+        "total_balance_usd": 2510.9601788821883
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99441.63,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2821.31,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.632,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:33:56",
+        "total_balance_usd": 2511.30879633266
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99433.98,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2822.83,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6318,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:34:56",
+        "total_balance_usd": 2511.160541620644
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99468.32,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2829.1,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6361,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:35:57",
+        "total_balance_usd": 2512.251267774088
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99398.05,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2829.45,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6317,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:36:57",
+        "total_balance_usd": 2510.4724579038357
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99375.03,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2831.47,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6245,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:37:58",
+        "total_balance_usd": 2509.7905815534596
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99356.41,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2831.39,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6244,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:38:57",
+        "total_balance_usd": 2509.3422283560517
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99362.2,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2826.51,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6171,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:39:58",
+        "total_balance_usd": 2509.166395789668
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99440.03,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2830.26,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6234,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:40:59",
+        "total_balance_usd": 2511.2800083320717
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99446.33,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2828.82,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6251,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:41:59",
+        "total_balance_usd": 2511.436779746408
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99386.72,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2828.55,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6253,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:42:59",
+        "total_balance_usd": 2510.014458705524
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99446.0,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2829.05,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6261,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:43:59",
+        "total_balance_usd": 2511.4605962309874
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99407.44,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2825.07,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6252,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:45:00",
+        "total_balance_usd": 2510.415906235716
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99519.67,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2827.12,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6336,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:46:00",
+        "total_balance_usd": 2513.359509736688
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99489.67,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2822.34,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6295,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:47:00",
+        "total_balance_usd": 2512.41577729476
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99426.7,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2818.39,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6284,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:48:01",
+        "total_balance_usd": 2510.7850196939717
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99462.6,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2821.05,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6313,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:49:01",
+        "total_balance_usd": 2511.783783160204
+    },
+    {
+        "balances": [
+            {
+                "asset": "BTC",
+                "current_price": 99513.99,
+                "free": 0.02383004,
+                "locked": 0.0
+            },
+            {
+                "asset": "ETH",
+                "current_price": 2823.63,
+                "free": 0.02578619,
+                "locked": 0.0
+            },
+            {
+                "asset": "USDT",
+                "current_price": 1.0,
+                "free": 1.08706108,
+                "locked": 0.0
+            },
+            {
+                "asset": "XRP",
+                "current_price": 2.6354,
+                "free": 25.74957408,
+                "locked": 0.0
+            }
+        ],
+        "timestamp": "2025-02-04 10:50:02",
+        "total_balance_usd": 2513.1805105397316
+    }
+]

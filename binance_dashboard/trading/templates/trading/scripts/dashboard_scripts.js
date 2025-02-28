@@ -9,6 +9,37 @@ import { addIndicatorTraces, addPredictionTraces, createStrategyBalanceTrace } f
 import { createTerminalInput } from '/static/scripts/utils/terminal.js';
 import { getChartConfig, saveChartConfiguration } from '/static/scripts/utils/chartConfig.js';
 
+
+/**
+ * Calcula las magnitudes de la Transformada de Fourier de un array de precios.
+ * @param {number[]} prices - Array de precios de cierre.
+ * @returns {number[]} - Array de magnitudes de la Transformada de Fourier.
+ */
+async function calculateFourierMagnitudes(prices) {
+    try {
+        console.log("prices: ", prices);
+        const response = await fetch('/calculate_fourier/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': getCookie('csrftoken')
+            },
+            body: JSON.stringify({ prices: prices })
+        });
+
+        const data = await response.json();
+        //console.log("data: ", data);
+        const sinusoids = data.sinusoids;
+        const fundamental_freqs = data.fundamental_freqs;
+        //console.log("sinusoids: ", sinusoids);
+        //console.log("fundamental_freqs: ", fundamental_freqs);
+        return [sinusoids, fundamental_freqs];
+    } catch (error) {
+        console.error('Error calculating Fourier magnitudes:', error);
+        return [];
+    }
+}
+
 // Variables globales
 let editor = ace.edit("editor");
 editor.setTheme("ace/theme/monokai");
@@ -20,10 +51,10 @@ editor.setOptions({
     enableLiveAutocompletion: true
 });
 
-let currentChartType = 'candlestick';
-let currentInterval = '1m';
-let currentSymbol = document.getElementById('symbolSelector').value || 'BTCUSDT';
-let isBotRunning = false;
+let currentChartType = localStorage.getItem('currentChartType') || 'candlestick';
+let currentInterval = localStorage.getItem('currentInterval') || '1m';
+let currentSymbol = localStorage.getItem('currentSymbol') || document.getElementById('symbolSelector').value || 'BTCUSDT';
+let isBotRunning = localStorage.getItem('isBotRunning') === 'true' || false;
 
 let traces = [];
 let chartDataPrompt = '';
@@ -324,34 +355,19 @@ function updateBotOutput() {
         });
 }
 
-//Funciones Extraccion de datos a prompt
-
-
-
-
-
-
-//Funciones del gráfico
-
-
-
-
 
 // Funciones del gráfico
 async function updateChart() {
     try {
         const chartConfig = getChartConfig(currentSymbol, currentInterval, currentChartType);
-        // Obtener el valor del input limit
-        const limit = document.getElementById('limitInput').value || 100; // Valor por defecto 100 si está vacío
+        const limit = document.getElementById('limitInput').value || 100;
         
-        // Obtener datos de klines y guardar configuración
         const [response, saveConfigResult] = await Promise.all([
             fetch(`/get_klines/${chartConfig.currentSymbol}/${chartConfig.currentInterval}/${limit}`),
             saveChartConfiguration(chartConfig)
         ]);
         const data = await response.json();
         
-        // Obtener rango de tiempo visible solo si tenemos datos
         let minTime, maxTime;
         if (data && data.timestamps_local && data.timestamps_local.length > 0) {
             const dates = data.timestamps_local.map(timestamp => new Date(timestamp));
@@ -360,7 +376,6 @@ async function updateChart() {
             maxTime = dates[dates.length - 1];
         }
 
-        // Preparar datos históricos
         const trace1 = {
             x: data.timestamps_local,
             y: currentChartType === 'line' ? data.close : undefined,
@@ -403,7 +418,124 @@ async function updateChart() {
             yaxis: 'y2'
         };
 
-        // Inicializar traces y esperar a que se completen todas las operaciones asíncronas
+        // Calcular las magnitudes de Fourier
+        async function createFourierTraces(data, traces) {
+            const selectedWave = document.getElementById('waveSelector').value;
+            const selectedSeries = document.getElementById('timeSeriesSelector').value;
+            //console.log("selectedSeries: ", selectedSeries);
+            const selectedData = data[selectedSeries];
+            //console.log("selectedData: ", selectedData);
+            const result = await calculateFourierMagnitudes(selectedData);
+            const sinusoids = result[0];
+            const fundamental_freqs = result[1];
+            //console.log("sinusoids: ", sinusoids);
+            //console.log("fundamental_freqs: ", fundamental_freqs);
+
+            if (selectedWave === 'wave') {
+                // Agregar trazas de sinusoides de Fourier
+                const traceFourier1 = {
+                    x: data.timestamps_local,
+                    y: sinusoids[0],
+                    type: 'scatter',
+                    mode: 'lines',
+                    name: 'Sinusoide 1',
+                    line: {
+                        color: chartConfig.colors.fourier1 || '#ff7f0e'
+                    },
+                    yaxis: 'y3'
+                };
+
+                const traceFourier2 = {
+                    x: data.timestamps_local,
+                    y: sinusoids[1],
+                    type: 'scatter',
+                    mode: 'lines',
+                    name: 'Sinusoide 2',
+                    line: {
+                        color: chartConfig.colors.fourier2 || '#2ca02c'
+                    },
+                    yaxis: 'y3'
+                };
+
+                const traceFourier3 = {
+                    x: data.timestamps_local,
+                    y: sinusoids[2],
+                    type: 'scatter',
+                    mode: 'lines',
+                    name: 'Sinusoide 3',
+                    line: {
+                        color: chartConfig.colors.fourier3 || '#1f77b4'
+                    },
+                    yaxis: 'y3'
+                };
+
+                traces.push(traceFourier1);
+                traces.push(traceFourier2); 
+                traces.push(traceFourier3);
+            } else if (selectedWave === 'limits') {
+                // Calcular el punto medio vertical
+                const midPoint = Math.max(...selectedData) / 2;
+
+                // Definir colores para los límites
+                const num_limits = document.getElementById('fourierValue').value;
+                const limitColors = Array.from({length: num_limits}, (_, i) => {
+                    const hue = (i * 360 / num_limits);
+                    return `hsl(${hue}, 100%, 50%)`;
+                });
+                
+                // Ordenar índices de mayor a menor
+                const sorted_indices = [...fundamental_freqs].sort((a, b) => b - a);
+                
+                // Generar secuencia Fibonacci hasta num_limits
+                const fibonacci = [1, 1];
+                for(let i = 2; i < num_limits; i++) {
+                    fibonacci[i] = fibonacci[i-1] + fibonacci[i-2];
+                }
+                
+                // Tomar elementos en posiciones Fibonacci
+                const fundamental_freqs2 = fibonacci.slice(3, 3+num_limits).map(pos => sorted_indices[pos-1]);
+                console.log("fibonacci: ", fibonacci);
+                console.log("length: ", fibonacci.length);
+                console.log("fundamental_freqs (posiciones Fibonacci): ", fundamental_freqs2);
+
+                // Crear líneas horizontales para cada magnitud
+                for (let i = 0; i < 3+num_limits; i++) {
+                    const magnitude = fundamental_freqs2[i];
+                    
+                    // Línea superior
+                    const upperTrace = {
+                        x: data.timestamps_local,
+                        y: Array(data.timestamps_local.length).fill(midPoint + magnitude),
+                        type: 'scatter',
+                        mode: 'lines',
+                        name: `Límite Superior ${i+1}`,
+                        line: {
+                            color: limitColors[i],
+                            dash: 'dash'
+                        },
+                        yaxis: 'y3'
+                    };
+
+                    // Línea inferior
+                    const lowerTrace = {
+                        x: data.timestamps_local,
+                        y: Array(data.timestamps_local.length).fill(midPoint - magnitude),
+                        type: 'scatter',
+                        mode: 'lines',
+                        name: `Límite Inferior ${i+1}`,
+                        line: {
+                            color: limitColors[i],
+                            dash: 'dash'
+                        },
+                        yaxis: 'y3'
+                    };
+
+                    traces.push(upperTrace);
+                    traces.push(lowerTrace);
+                }
+            }
+        }
+
         traces = [trace1, traceVolume, traceVolume_buy];
         
         await Promise.all([
@@ -412,8 +544,10 @@ async function updateChart() {
             addPredictionTraces(chartConfig, minTime, traces)
         ]);
 
-        // Agregar indicadores después de que se completen las operaciones anteriores
         addIndicatorTraces(chartConfig, data, traces);
+        if (document.getElementById('showFourier').checked) {
+            await createFourierTraces(data, traces);
+        }
 
         const layout = {
             plot_bgcolor: chartConfig.layout.backgroundColor,
@@ -445,6 +579,13 @@ async function updateChart() {
                 domain: chartConfig.layout.domains.volume,
                 side: 'right',
                 showgrid: true
+            },
+            yaxis3: { // Definir un nuevo eje para las magnitudes de Fourier
+                title: 'Fourier',
+                color: chartConfig.layout.textColor,
+                domain: [0.7, 1], // Ajusta el dominio según sea necesario
+                side: 'right',
+                overlaying: 'y'
             },
             yaxis4: {
                 title: 'Osciladores',
@@ -541,10 +682,6 @@ async function updateChart() {
         document.getElementById('extractDataButton').onclick = function() {
 
             console.log('Extrayendo datos para el prompt');
-            console.log(traces);
-            console.log(data);
-            console.log(chartConfig);
-            console.log(numPoints);
             // Extraer datos para el prompt
             chartDataPrompt = extractChartDataPrompt(traces, data, chartConfig, numPoints);
             console.log('Prompt generado:', chartDataPrompt);
@@ -827,8 +964,6 @@ function toggleUSDVisibility() {
         });
 }
 
-
-
 // Configurar el editor y los botones flotantes
 //let editor = ace.edit("editor");
 
@@ -873,10 +1008,6 @@ function formatMessageContent(content) {
 
 // Event Listeners
 document.addEventListener('DOMContentLoaded', function() {
-
-
-
-
     // Referencias a elementos del DOM
     const elements = {
         floatingButton: document.getElementById('floatingButton'),
@@ -1041,38 +1172,25 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
     // Llamar a la función al cargar la página
     updateTotalBalance();
     // Actualizar cada minuto (60000 milisegundos)
     setInterval(updateTotalBalance, 60000);
-    // Cargar árbol de archivos inicial
-    loadFileTree();
-    // Iniciar actualización periódica del terminal
-    setInterval(updateBotOutput, 5000);
-    // Iniciar gráfico
-    updateChart();
-    setInterval(updateChart, 60000);
     setupChartEventListeners();
 
-
-
+    // Configurar botones de estrategia con estado guardado
     setupStrategyButtons();
+    
+    // Cargar árbol de archivos inicial
+    loadFileTree();
+    
+    // Iniciar actualización periódica del terminal
+    setInterval(updateBotOutput, 5000);
+    
+    // Iniciar gráfico con configuración guardada
+    updateChart();
+    setInterval(updateChart, 60000);
+
 
     // Agregar evento de clic a los botones de alternancia
     const toggleButtons = document.querySelectorAll('.toggle-usd');
@@ -1108,7 +1226,7 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(response => response.json())
         .then(data => {
             if (data.success) {
-                updateRunButton(!isBotRunning);
+                updateRunButton(!isBotRunning, runBotBtn);
                 
                 if (!isBotRunning) {
                     // Bot detenido
@@ -1262,16 +1380,28 @@ function setupStrategyButtons() {
 
     // Objeto para mantener el estado de las estrategias
     const strategyStates = {
-        strategy1: false,
-        strategy2: false,
-        strategy3: false
+        strategy1: localStorage.getItem('strategy1State') === 'true',
+        strategy2: localStorage.getItem('strategy2State') === 'true', 
+        strategy3: localStorage.getItem('strategy3State') === 'true'
     };
+
+    // Restaurar estados visuales iniciales
+    if (strategyStates.strategy1 && strategy1Button) {
+        strategy1Button.classList.add('btn-active');
+    }
+    if (strategyStates.strategy2 && strategy2Button) {
+        strategy2Button.classList.add('btn-active');
+    }
+    if (strategyStates.strategy3 && strategy3Button) {
+        strategy3Button.classList.add('btn-active');
+    }
 
     if (strategy1Button) {
         strategy1Button.addEventListener('click', async () => {
             if (!strategyStates.strategy1) {
                 strategy1Button.classList.add('btn-active');
                 strategyStates.strategy1 = true;
+                localStorage.setItem('strategy1State', 'true');
                 try {
                     await executeStrategy1();
                     await updateTotalBalance();
@@ -1280,6 +1410,7 @@ function setupStrategyButtons() {
                     console.error('Error al ejecutar estrategia 1:', error);
                     strategy1Button.classList.remove('btn-active');
                     strategyStates.strategy1 = false;
+                    localStorage.setItem('strategy1State', 'false');
                     alert('Error al activar estrategia 1: ' + error.message);
                 }
             } else {
@@ -1288,6 +1419,7 @@ function setupStrategyButtons() {
                     await updateTotalBalance();
                     strategy1Button.classList.remove('btn-active');
                     strategyStates.strategy1 = false;
+                    localStorage.setItem('strategy1State', 'false');
                 } catch (error) {
                     console.error('Error al detener estrategia 1:', error);
                 }
@@ -1300,6 +1432,7 @@ function setupStrategyButtons() {
             if (!strategyStates.strategy2) {
                 strategy2Button.classList.add('btn-active');
                 strategyStates.strategy2 = true;
+                localStorage.setItem('strategy2State', 'true');
                 try {
                     await executeStrategy2();
                     await updateTotalBalance();
@@ -1308,6 +1441,7 @@ function setupStrategyButtons() {
                     console.error('Error al ejecutar estrategia 2:', error);
                     strategy2Button.classList.remove('btn-active');
                     strategyStates.strategy2 = false;
+                    localStorage.setItem('strategy2State', 'false');
                     alert('Error al activar estrategia 2: ' + error.message);
                 }
             } else {
@@ -1316,6 +1450,7 @@ function setupStrategyButtons() {
                     await updateTotalBalance();
                     strategy2Button.classList.remove('btn-active');
                     strategyStates.strategy2 = false;
+                    localStorage.setItem('strategy2State', 'false');
                 } catch (error) {
                     console.error('Error al detener estrategia 2:', error);
                 }
@@ -1328,6 +1463,7 @@ function setupStrategyButtons() {
             if (!strategyStates.strategy3) {
                 strategy3Button.classList.add('btn-active');
                 strategyStates.strategy3 = true;
+                localStorage.setItem('strategy3State', 'true');
                 try {
                     await executeStrategy3();
                     await updateTotalBalance();
@@ -1336,6 +1472,7 @@ function setupStrategyButtons() {
                     console.error('Error al ejecutar estrategia 3:', error);
                     strategy3Button.classList.remove('btn-active');
                     strategyStates.strategy3 = false;
+                    localStorage.setItem('strategy3State', 'false');
                     alert('Error al activar estrategia 3: ' + error.message);
                 }
             } else {
@@ -1344,6 +1481,7 @@ function setupStrategyButtons() {
                     await updateTotalBalance();
                     strategy3Button.classList.remove('btn-active');
                     strategyStates.strategy3 = false;
+                    localStorage.setItem('strategy3State', 'false');
                 } catch (error) {
                     console.error('Error al detener estrategia 3:', error);
                 }
@@ -1351,6 +1489,9 @@ function setupStrategyButtons() {
         });
     }
 }
+
+
+
 function updateRunButton(isRunning, runBotBtn) {
     if (isRunning) {
         runBotBtn.innerHTML = '<i class="fas fa-stop"></i> Stop';
@@ -1362,75 +1503,98 @@ function updateRunButton(isRunning, runBotBtn) {
         runBotBtn.classList.add('btn-modern');
     }
     isBotRunning = isRunning;
+    // Guardar estado del botón
+    localStorage.setItem('botRunningState', isRunning);
 }
 
-
-
-
-
-
-
-
 function setupChartEventListeners() {
-        // Variable para controlar el tiempo entre actualizaciones
-        let updateTimeout = null;
+    // Variable para controlar el tiempo entre actualizaciones
+    let updateTimeout = null;
 
-        // Función para ejecutar updateChart con debounce
-        const debouncedUpdateChart = () => {
-            if (updateTimeout) {
-                clearTimeout(updateTimeout);
-            }
-            updateTimeout = setTimeout(() => {
-                updateChart();
-            }, 300); // Espera 300ms antes de ejecutar
-        };
+    // Función para ejecutar updateChart con debounce
+    const debouncedUpdateChart = () => {
+        if (updateTimeout) {
+            clearTimeout(updateTimeout);
+        }
+        updateTimeout = setTimeout(() => {
+            updateChart();
+        }, 300); // Espera 300ms antes de ejecutar
+    };
 
-        // Agregar listeners para todos los checkboxes
-        ['showLSTM', 'showTimeGAN', 'showRSI', 'showMACD', 'showBollinger', 'showTrades', 
-        'showSimulation1', 'showSimulation2', 'showSimulation3', 'showEMA','showSMA', 'showPSAR', 'showStochastic', 
-        'showOBV', 'showADX', 'showATR', 'showPivot', 'showFibonacci'].forEach(id => {
-            document.getElementById(id).addEventListener('change', debouncedUpdateChart);
-        });
-
-        // Agregar listener específico para el input limit
-        document.getElementById('limitInput').addEventListener('input', debouncedUpdateChart);
-
-        // Event listeners para el gráfico
-        document.querySelectorAll('[data-interval]').forEach(button => {
-            button.addEventListener('click', () => {
-                currentInterval = button.dataset.interval;
-                debouncedUpdateChart();
-            });
-        });
-        
-        document.querySelectorAll('[data-chart-type]').forEach(button => {
-            button.addEventListener('click', () => {
-                currentChartType = button.dataset.chartType;
-                debouncedUpdateChart();
-            });
-        });
-
-        document.getElementById('symbolSelector').addEventListener('change', (e) => {
-            currentSymbol = e.target.value;
+    // Cargar estados guardados y configurar listeners para checkboxes
+    ['showLSTM', 'showTimeGAN', 'showRSI', 'showMACD', 'showBollinger', 'showTrades', 
+    'showSimulation1', 'showSimulation2', 'showSimulation3', 'showEMA','showSMA', 'showPSAR', 'showStochastic', 
+    'showOBV', 'showADX', 'showATR', 'showPivot', 'showFibonacci', 'showFourier'].forEach(id => {
+        const checkbox = document.getElementById(id);
+        // Cargar estado guardado
+        const savedState = localStorage.getItem(id);
+        if (savedState !== null) {
+            checkbox.checked = savedState === 'true';
+        }
+        // Agregar listener y guardar estado
+        checkbox.addEventListener('change', (e) => {
+            localStorage.setItem(id, e.target.checked);
             debouncedUpdateChart();
         });
+    });
 
-        const toggleAllCheckbox = document.getElementById('toggleAllIndicators');
-        const indicatorCheckboxes = document.querySelectorAll('.indicator-checkbox');
-    
-        toggleAllCheckbox.addEventListener('change', function() {
-            indicatorCheckboxes.forEach(checkbox => {
-                checkbox.checked = toggleAllCheckbox.checked;
-            });
-        });
-    
-    
-        const toggleAllPredictionsCheckbox = document.getElementById('toggleAllPredictions');
-        const predictionCheckboxes = document.querySelectorAll('.prediction-checkbox');
-    
-        toggleAllPredictionsCheckbox.addEventListener('change', function() {
-            predictionCheckboxes.forEach(checkbox => {
-                checkbox.checked = toggleAllPredictionsCheckbox.checked;
-            });
-        });
+    // Configurar limit input
+    const limitInput = document.getElementById('limitInput');
+    const savedLimit = localStorage.getItem('limitInput');
+    if (savedLimit) {
+        limitInput.value = savedLimit;
     }
+    limitInput.addEventListener('input', (e) => {
+        localStorage.setItem('limitInput', e.target.value);
+        debouncedUpdateChart();
+    });
+
+    // Configurar interval buttons
+    document.querySelectorAll('[data-interval]').forEach(button => {
+        button.addEventListener('click', () => {
+            currentInterval = button.dataset.interval;
+            localStorage.setItem('currentInterval', currentInterval);
+            debouncedUpdateChart();
+        });
+    });
+    
+    // Configurar chart type buttons
+    document.querySelectorAll('[data-chart-type]').forEach(button => {
+        button.addEventListener('click', () => {
+            currentChartType = button.dataset.chartType;
+            localStorage.setItem('currentChartType', currentChartType);
+            debouncedUpdateChart();
+        });
+    });
+
+    // Configurar symbol selector
+    const symbolSelector = document.getElementById('symbolSelector');
+    const savedSymbol = localStorage.getItem('currentSymbol');
+    if (savedSymbol) {
+        symbolSelector.value = savedSymbol;
+        currentSymbol = savedSymbol;
+    }
+    symbolSelector.addEventListener('change', (e) => {
+        currentSymbol = e.target.value;
+        localStorage.setItem('currentSymbol', currentSymbol);
+        debouncedUpdateChart();
+    });
+
+    // Configurar toggle all indicators
+    const toggleAllCheckbox = document.getElementById('toggleAllIndicators');
+    const indicatorCheckboxes = document.querySelectorAll('.indicator-checkbox');
+    
+    const savedToggleAll = localStorage.getItem('toggleAllIndicators');
+    if (savedToggleAll !== null) {
+        toggleAllCheckbox.checked = savedToggleAll === 'true';
+    }
+
+    toggleAllCheckbox.addEventListener('change', function() {
+        localStorage.setItem('toggleAllIndicators', toggleAllCheckbox.checked);
+        indicatorCheckboxes.forEach(checkbox => {
+            checkbox.checked = toggleAllCheckbox.checked;
+            localStorage.setItem(checkbox.id, toggleAllCheckbox.checked);
+        });
+    });
+
+}

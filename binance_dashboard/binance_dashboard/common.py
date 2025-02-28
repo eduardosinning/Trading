@@ -5,9 +5,9 @@ import pandas as pd
 from django.http import JsonResponse
 from datetime import datetime
 import os
+import certifi
 from dotenv import load_dotenv
 
-from django.http import HttpResponse
 
 from django.views.decorators.csrf import csrf_exempt
 
@@ -18,15 +18,32 @@ class BinanceView:
         
         self.api_key = os.getenv('BINANCE_API_KEY')
         self.api_secret = os.getenv('BINANCE_SECRET_KEY')
-        self.client = Client(self.api_key, self.api_secret)
+        self.client = Client(self.api_key, self.api_secret, {"verify": certifi.where()})
     
-    def get_binance_data(self, symbol, interval='1m', limit=1000):
+    def get_binance_data(self, symbol, columns=['Open','High','Low','Close','Volume'], interval='1m', limit=1000):
         """Obtener datos de Binance por minuto"""
         klines = self.client.get_klines(symbol=symbol, interval=interval, limit=limit)
         dates = [datetime.fromtimestamp(entry[0] / 1000).strftime('%Y-%m-%d %H:%M:%S') for entry in klines]
-        prices = [float(entry[4]) for entry in klines]
-        data = pd.DataFrame(prices, index=dates, columns=['Close'])
+        
+        # Extraer todos los datos OHLCV
+        ohlcv_data = {
+            'Open': [float(entry[1]) for entry in klines],
+            'High': [float(entry[2]) for entry in klines], 
+            'Low': [float(entry[3]) for entry in klines],
+            'Close': [float(entry[4]) for entry in klines],
+            'Volume': [float(entry[5]) for entry in klines]
+        }
+        
+        data = pd.DataFrame(ohlcv_data, index=dates)
         return data
+    
+    def get_binance_crypto_symbols(self):
+        exchange_info = self.client.get_exchange_info()
+        symbols_info = exchange_info['symbols']
+        cryptos = set()
+        for s in symbols_info:
+            cryptos.add(s['baseAsset'])
+        return cryptos
     
         
     def get_account_info(self):

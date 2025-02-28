@@ -1,9 +1,9 @@
+// Asegúrate de que fft.js esté disponible
 
 
 
-
-
-// Función para calcular las Bandas de Bollinger
+// Calcula las Bandas de Bollinger, que son indicadores de volatilidad que crean bandas superior e inferior 
+// alrededor de una media móvil, útiles para identificar sobrecompra/sobreventa
 export function calculateBollingerBands(prices, period = 20, stdDev = 2) {
     // Calcular media móvil
     const sma = prices.map((_, i) => {
@@ -33,7 +33,8 @@ export function calculateBollingerBands(prices, period = 20, stdDev = 2) {
     return { upper, lower };
 }
 
-// Función para calcular el Momentum
+// Calcula el Momentum, que mide la velocidad del cambio en los precios
+// comparando el precio actual con el precio de n períodos atrás
 export function calculateMomentum(prices, period = 10) {
     return prices.map((price, i) => {
         if (i < period) return null;
@@ -41,7 +42,8 @@ export function calculateMomentum(prices, period = 10) {
     });
 }
 
-// Funciones para calcular indicadores técnicos
+// Calcula la Media Móvil Simple (SMA), que suaviza los datos de precios
+// para identificar tendencias
 export function calculateMovingAverage(data, period) {
     let movingAverage = [];
     for (let i = 0; i < data.length; i++) {
@@ -55,6 +57,8 @@ export function calculateMovingAverage(data, period) {
     return movingAverage;
 }
 
+// Calcula el Índice de Fuerza Relativa (RSI), un indicador de momentum que mide
+// la velocidad y magnitud de los movimientos direccionales de precios
 export function calculateRSI(data, period) {
     let rsi = [];
     let gains = 0;
@@ -80,6 +84,8 @@ export function calculateRSI(data, period) {
     return rsi;
 }
 
+// Calcula el MACD (Moving Average Convergence Divergence), que muestra la relación
+// entre dos medias móviles exponenciales de diferentes períodos
 export function calculateMACD(data, shortPeriod = 12, longPeriod = 26, signalPeriod = 9) {
     const shortEMA = calculateEMA(data, shortPeriod);
     const longEMA = calculateEMA(data, longPeriod);
@@ -88,6 +94,8 @@ export function calculateMACD(data, shortPeriod = 12, longPeriod = 26, signalPer
     return { macd, signal };
 }
 
+// Calcula la Media Móvil Exponencial (EMA), que da más peso a los datos recientes
+// que a los datos antiguos
 export function calculateEMA(data, period) {
     const k = 2 / (period + 1);
     let emaArray = [data[0]];
@@ -97,7 +105,8 @@ export function calculateEMA(data, period) {
     return emaArray;
 }
 
-// Nuevas funciones para los indicadores adicionales
+// Calcula el Oscilador Estocástico, que compara el precio de cierre actual
+// con el rango de precios durante un período específico
 export function calculateStochastic(high, low, close, period, smoothK) {
     let k = [];
     let d = [];
@@ -123,6 +132,8 @@ export function calculateStochastic(high, low, close, period, smoothK) {
     return { k, d };
 }
 
+// Calcula el Balance de Volumen (OBV), que relaciona el volumen con los cambios
+// de precio para confirmar tendencias
 export function calculateOBV(close, volume) {
     let obv = [0];
     for (let i = 1; i < close.length; i++) {
@@ -137,6 +148,8 @@ export function calculateOBV(close, volume) {
     return obv;
 }
 
+// Calcula el Índice Direccional Medio (ADX), que mide la fuerza de una tendencia
+// independientemente de su dirección
 export function calculateADX(high, low, close, period) {
     let tr = [0];
     let plusDM = [0];
@@ -174,6 +187,7 @@ export function calculateADX(high, low, close, period) {
     return calculateEMA(dx, period);
 }
 
+// Calcula el Rango Verdadero Medio (ATR), que mide la volatilidad del mercado
 export function calculateATR(high, low, close, period) {
     let tr = [high[0] - low[0]];
     
@@ -188,11 +202,15 @@ export function calculateATR(high, low, close, period) {
     return calculateEMA(tr, period);
 }
 
+// Calcula los Puntos Pivot, niveles de soporte y resistencia basados en los
+// precios alto, bajo y de cierre del período anterior
 export function calculatePivotPoints(high, low, close) {
     const pp = close.map((c, i) => (high[i] + low[i] + c) / 3);
     return { pp };
 }
 
+// Calcula los niveles de Fibonacci, utilizados para identificar posibles
+// niveles de soporte, resistencia y objetivos de precio
 export function calculateFibonacciLevels(high, low) {
     const diff = Math.max(...high) - Math.min(...low);
     return {

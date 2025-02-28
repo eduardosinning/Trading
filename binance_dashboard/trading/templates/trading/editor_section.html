@@ -1,0 +1,108 @@
+<!-- Sección Editor de Código -->
+<div class="row mt-4">
+    <div class="col">
+        <div class="card bg-dark border-secondary">
+            <!-- Encabezado Editor -->
+            <div class="card-header bg-darker d-flex justify-content-between align-items-center">
+                <h5 class="code-font mb-0">Code Editor</h5>
+                <div class="d-flex align-items-center">
+                    <!-- Botones de Acción -->
+                    <button id="newFile" class="btn btn-modern code-font me-2">
+                        <i class="fas fa-file"></i> New File
+                    </button>
+                    <button id="newFolder" class="btn btn-modern code-font me-2">
+                        <i class="fas fa-folder-plus"></i> New Folder
+                    </button>
+                    <button id="saveCode" class="btn btn-modern code-font me-2">
+                        <i class="fas fa-save"></i> Save
+                    </button>
+                    <button id="runBot" class="btn btn-modern code-font">
+                        <i class="fas fa-play"></i> Run
+                    </button>
+                    <!-- Controles de Ventana -->
+                    <div class="window-controls ms-3">
+                        <button class="btn btn-modern btn-sm minimize-btn" data-target="editor-content">
+                            <i class="fas fa-minus"></i>
+                        </button>
+                        <button class="btn btn-modern btn-sm maximize-btn" data-target="editor-content">
+                            <i class="fas fa-expand"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Contenido Editor -->
+            <div id="editor-content" class="card-body bg-darker p-0">
+                <div class="d-flex flex-column h-100">
+                    <div class="row g-0 flex-grow-1">
+                        <!-- Explorador de Archivos -->
+                        <div class="col-3 border-end border-secondary">
+                            <div id="fileExplorer" class="file-explorer">
+                                <div class="p-2">
+                                    <div class="file-tree">
+                                        <!-- El árbol de archivos se generará dinámicamente -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Editor de Código -->
+                        <div class="col-6">
+                            <div id="editor" style="height: 500px; position: relative;"></div>
+                            <!-- Agregar justo después del div del editor -->
+                            <div id="floatingButton" class="floating-button" style="display: none;">
+                                <button id="sendToChat" class="btn btn-sm btn-modern">
+                                    <i class="fas fa-comment"></i>
+                                </button>
+                                <button id="editSelection" class="btn btn-sm btn-modern">
+                                    <i class="fas fa-edit"></i>
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <!-- Chat GPT -->
+                        <div class="col-3 border-end border-secondary">
+                            <div id="chatGPT" class="chat-container">
+                                <div class="chat-messages" id="chatMessages">
+                                    <!-- Los mensajes se agregarán aquí dinámicamente -->
+                                </div>
+                                <div class="chat-input-container">
+                                    <textarea id="chatInput" class="chat-input" placeholder="Pregunta algo a ChatGPT..."></textarea>
+                                    <button id="sendChat" class="btn btn-modern btn-sm">
+                                        <i class="fas fa-paper-plane"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Terminal Section -->
+                    <div class="border-top border-secondary mt-3">
+                        <div class="d-flex justify-content-between align-items-center p-2 bg-darker">
+                            <h5 class="code-font mb-0">Terminal</h5>
+                            <div class="d-flex align-items-center">
+                                <button id="scrollToBottom" class="btn btn-modern btn-sm me-2">
+                                    <i class="fas fa-arrow-down"></i> Scroll Down
+                                </button>
+                                <button id="clearTerminal" class="btn btn-modern btn-sm me-2">
+                                    <i class="fas fa-broom"></i> Clear
+                                </button>
+                                <div class="window-controls">
+                                    <button class="btn btn-modern btn-sm minimize-btn" data-target="terminal-content">
+                                        <i class="fas fa-minus"></i>
+                                    </button>
+                                    <button class="btn btn-modern btn-sm maximize-btn" data-target="terminal-content">
+                                        <i class="fas fa-expand"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="terminal-content" class="bg-darker">
+                            <pre id="botOutput" class="p-3 text-light" style="height: 200px; overflow-y: scroll; margin: 0;"></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

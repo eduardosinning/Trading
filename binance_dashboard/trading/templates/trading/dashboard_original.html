@@ -1,0 +1,494 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<!-- Contenedor Principal -->
+<div class="container-fluid dark-theme">
+    
+    <!-- Sección Portfolio -->
+    <div class="row mb-4">
+        <div class="col">
+            <div class="card bg-dark border-secondary">
+                <!-- Encabezado Portfolio -->
+                <div class="card-header bg-darker d-flex justify-content-between align-items-center">
+                    <div class="d-flex align-items-center">
+                        <h2 class="code-font mb-0">Tu portfolio en Binance</h2>
+                        <span class="ms-3 code-font text-success total-balance-usd" style="font-size: 1.5rem; font-weight: bold;">
+                            ${{ total_balance_usd|floatformat:2 }}
+                        </span>
+                    </div>
+                    <div class="window-controls">
+                        <button class="btn btn-modern btn-sm minimize-btn" data-target="portfolio-content">
+                            <i class="fas fa-minus"></i>
+                        </button>
+                        <button class="btn btn-modern btn-sm maximize-btn" data-target="portfolio-content">
+                            <i class="fas fa-expand"></i>
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Contenido Portfolio -->
+                <div id="portfolio-content" class="card-body bg-darker">
+                    <div class="code-block p-3 mb-4">
+                        <table class="table table-dark table-hover code-font">
+                            <thead>
+                                <tr>
+                                    <th>Activo/precio</th>
+                                    <th>
+                                        disponible
+                                        <button class="btn btn-sm btn-outline-secondary toggle-usd" data-target="disponible">
+                                            <i class="fas fa-dollar-sign"></i>
+                                        </button>
+                                    </th>
+                                    <th>
+                                        bloqueado
+                                        <button class="btn btn-sm btn-outline-secondary toggle-usd" data-target="bloqueado">
+                                            <i class="fas fa-dollar-sign"></i>
+                                        </button>
+                                    </th>
+                                    <th>
+                                        <span class="strategy1-header">estrategia 1</span>
+                                        <button class="btn btn-sm btn-outline-secondary toggle-strategy" data-target="strategy1">
+                                            <i class="fas fa-robot"></i>
+                                        </button>
+                                    </th>
+                                    <th>
+                                        <span class="strategy2-header"> estrategia 2</span>
+                                        <button class="btn btn-sm btn-outline-secondary toggle-strategy" data-target="strategy2">
+                                            <i class="fas fa-robot"></i>
+                                        </button>
+                                    </th>
+                                    <th>
+                                        <span class="strategy3-header">estrategia 3</span>
+                                        <button class="btn btn-sm btn-outline-secondary toggle-strategy" data-target="strategy3">
+                                            <i class="fas fa-robot"></i>
+                                        </button>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for balance in balances %}
+                                <tr>
+                                    <td>
+                                        <span class="text-primary">"{{balance.asset}}"</span>
+                                        <br>
+                                        <span class="text-info">{{balance.current_price}}</span>
+                                    </td>
+                                    <td>
+                                        <span class="text-success amount">{{balance.free}}</span>
+                                        <span class="text-success usd d-none">${{ balance.free|floatformat:2 }}</span>
+                                    </td>
+                                    <td>
+                                        <span class="text-warning amount">{{balance.locked}}</span>
+                                        <span class="text-warning usd d-none">${{ balance.locked|floatformat:2 }}</span>
+                                    </td>
+                                    <td><span class="text-info">-</span></td>
+                                    <td><span class="text-info">-</span></td>
+                                    <td><span class="text-info">-</span></td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="balance-chart-content" class="card-body bg-darker w-100">
+        <div id="balanceChart" style="height: 400px; width: 100%;"></div>
+    </div>
+    <!-- Sección Gráfico -->
+    <div class="row">
+        <div class="col">
+            <div class="card bg-dark border-secondary">
+                <!-- Barra de herramientas del gráfico -->
+                <div class="card-header bg-darker py-3">
+                    <div class="d-flex justify-content-between align-items-center flex-wrap gap-3">
+                        
+                        <!-- Grupo 1: Selector de símbolo y balance -->
+                        <div class="d-flex align-items-center gap-3">
+                            <div class="d-flex align-items-center">
+                                <select id="symbolSelector" class="form-select form-select-sm bg-dark text-light code-font border-secondary" style="width: 150px">
+                                    {% for balance in balances %}
+                                        <option value="{{ balance.asset }}USDT">{{ balance.asset }}/USDT</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="code-font">
+                                <span id="assetBalance" class="text-success fs-6"></span>
+                                <span id="assetChange" class="ms-2 fs-6"></span>
+                            </div>
+                        </div>
+
+                        <!-- Grupo 2: Intervalos de tiempo -->
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-sm btn-dark code-font" data-interval="1m">1m</button>
+                            <button type="button" class="btn btn-sm btn-dark code-font" data-interval="5m">5m</button>
+                            <button type="button" class="btn btn-sm btn-dark code-font" data-interval="1h">1h</button>
+                            <button type="button" class="btn btn-sm btn-dark code-font" data-interval="1d">1d</button>
+                            <button type="button" class="btn btn-sm btn-dark code-font" data-interval="1w">1w</button>
+                            <button type="button" class="btn btn-sm btn-dark code-font" data-interval="1M">1M</button>
+                        </div>
+
+                        <div class="d-flex align-items-center">
+                            <div class="btn-group">
+                                <button class="btn btn-sm btn-dark dropdown-toggle" type="button" id="fourierDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Fourier Analysis
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="fourierDropdown">
+                                    <li>
+                                        <select id="timeSeriesSelector" class="form-select form-select-sm bg-dark text-light">
+                                            <option value="high">High</option>
+                                            <option value="low">Low</option>
+                                            <option value="close">Close</option>
+                                            <option value="open">Open</option>
+                                            <option value="volume">Volume</option>
+                                            <option value="taker_buy_base_asset_volume">Volume Compras</option>
+                                        </select>
+                                    </li>
+                                    <li>
+                                        <select id="waveSelector" class="form-select form-select-sm bg-dark text-light mt-2">
+                                            <option value="wave">Wave</option>
+                                            <option value="limits">Limits</option>
+                                        </select>
+                                    </li>
+                                    <li>
+                                        <input type="number" id="fourierValue" class="form-control form-control-sm bg-dark text-light mt-2" placeholder="Valor numérico">
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="form-check ms-2">
+                                <input class="form-check-input" type="checkbox" id="showFourier">
+                                <label class="form-check-label text-light">Show Fourier</label>
+                            </div>
+                        </div>
+
+                        <!-- Grupo 3: Herramientas principales -->
+                        <div class="d-flex align-items-center gap-2">
+                            <!-- Dropdown de Indicadores -->
+                            <div class="dropdown">
+                                <button class="btn btn-sm btn-dark dropdown-toggle d-flex align-items-center gap-1" type="button" id="indicatorsDropdown" data-bs-toggle="dropdown">
+                                    <i class="fas fa-chart-line"></i>
+                                    <span>Indicadores</span>
+                                </button>
+                                <div class="dropdown-menu bg-dark p-2" style="width: 300px">
+                                    <div class="form-check mb-2">
+                                        <input class="form-check-input" type="checkbox" id="toggleAllIndicators">
+                                        <label class="form-check-label text-light code-font">Todos los indicadores</label>
+                                    </div>
+                                    <hr class="border-secondary my-2">
+                                    
+                                    <!-- Grupos de indicadores -->
+                                    <div class="mb-3">
+                                        <div class="text-light fw-bold mb-2">Tendencia</div>
+                                        <div class="ms-2">
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showSMA">
+                                                <label class="form-check-label text-light">SMA</label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showEMA">
+                                                <label class="form-check-label text-light">EMA</label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showPSAR">
+                                                <label class="form-check-label text-light">PSAR</label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showBollinger">
+                                                <label class="form-check-label text-light">Bollinger</label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <div class="text-light fw-bold mb-2">Momentum</div>
+                                        <div class="ms-2">
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showRSI">
+                                                <label class="form-check-label text-light">RSI</label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showMACD">
+                                                <label class="form-check-label text-light">MACD</label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showStochastic">
+                                                <label class="form-check-label text-light">Estocástico</label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <div class="text-light fw-bold mb-2">Volumen</div>
+                                        <div class="ms-2">
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showOBV">
+                                                <label class="form-check-label text-light">OBV</label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showAD">
+                                                <label class="form-check-label text-light">A/D</label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <div class="text-light fw-bold mb-2">Volatilidad</div>
+                                        <div class="ms-2">
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showADX">
+                                                <label class="form-check-label text-light">ADX</label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showATR">
+                                                <label class="form-check-label text-light">ATR</label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <div class="text-light fw-bold mb-2">Niveles</div>
+                                        <div class="ms-2">
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showPivot">
+                                                <label class="form-check-label text-light">Pivotes</label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input indicator-checkbox" type="checkbox" id="showFibonacci">
+                                                <label class="form-check-label text-light">Fibonacci</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Dropdown de Predicciones -->
+                            <div class="dropdown">
+                                <button class="btn btn-sm btn-dark dropdown-toggle d-flex align-items-center gap-1" type="button" id="predictionsDropdown" data-bs-toggle="dropdown">
+                                    <i class="fas fa-robot"></i>
+                                    <span>Predicciones</span>
+                                </button>
+                                <div class="dropdown-menu bg-dark p-2">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="showLSTM">
+                                        <label class="form-check-label text-light">LSTM</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="showTimeGAN">
+                                        <label class="form-check-label text-light">TimeGAN</label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Dropdown de Transacciones -->
+                            <div class="dropdown">
+                                <button class="btn btn-sm btn-dark dropdown-toggle d-flex align-items-center gap-1" type="button" id="tradesDropdown" data-bs-toggle="dropdown">
+                                    <i class="fas fa-exchange-alt"></i>
+                                    <span>Transacciones</span>
+                                </button>
+                                <div class="dropdown-menu bg-dark p-2">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="showTrades">
+                                        <label class="form-check-label text-light">Real</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="showSimulation1">
+                                        <label class="form-check-label text-light">Simulación 1</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="showSimulation2">
+                                        <label class="form-check-label text-light">Simulación 2</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="showSimulation3">
+                                        <label class="form-check-label text-light">Simulación 3</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Grupo 4: Controles adicionales -->
+                        <div class="d-flex align-items-center gap-2">
+                            <div class="input-group input-group-sm" style="width: 120px">
+                                <span class="input-group-text bg-dark text-light border-secondary">Límite</span>
+                                <input type="number" id="limitInput" class="form-control bg-dark text-light border-secondary" min="50" value="100">
+                            </div>
+                            
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-sm btn-dark" data-chart-type="candlestick">
+                                    <i class="fas fa-chart-bar"></i>
+                                </button>
+                                <button type="button" class="btn btn-sm btn-dark" data-chart-type="line">
+                                    <i class="fas fa-chart-line"></i>
+                                </button>
+                            </div>
+
+                            <button id="extractDataButton" class="btn btn-sm btn-dark d-flex align-items-center gap-1">
+                                <i class="fas fa-download"></i>
+                                <span>Exportar</span>
+                            </button>
+
+                            <div class="window-controls">
+                                <button class="btn btn-sm btn-dark minimize-btn" data-target="chart-content">
+                                    <i class="fas fa-minus"></i>
+                                </button>
+                                <button class="btn btn-sm btn-dark maximize-btn" data-target="chart-content">
+                                    <i class="fas fa-expand"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Contenido del gráfico -->
+                <div id="chart-content" class="card-body bg-darker">
+                    <div id="priceChart" style="height: 800px;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sección Editor de Código -->
+    <div class="row mt-4">
+        <div class="col">
+            <div class="card bg-dark border-secondary">
+                <!-- Encabezado Editor -->
+                <div class="card-header bg-darker d-flex justify-content-between align-items-center">
+                    <h5 class="code-font mb-0">Code Editor</h5>
+                    <div class="d-flex align-items-center">
+                        <!-- Botones de Acción -->
+                        <button id="newFile" class="btn btn-modern code-font me-2">
+                            <i class="fas fa-file"></i> New File
+                        </button>
+                        <button id="newFolder" class="btn btn-modern code-font me-2">
+                            <i class="fas fa-folder-plus"></i> New Folder
+                        </button>
+                        <button id="saveCode" class="btn btn-modern code-font me-2">
+                            <i class="fas fa-save"></i> Save
+                        </button>
+                        <button id="runBot" class="btn btn-modern code-font">
+                            <i class="fas fa-play"></i> Run
+                        </button>
+                        <!-- Controles de Ventana -->
+                        <div class="window-controls ms-3">
+                            <button class="btn btn-modern btn-sm minimize-btn" data-target="editor-content">
+                                <i class="fas fa-minus"></i>
+                            </button>
+                            <button class="btn btn-modern btn-sm maximize-btn" data-target="editor-content">
+                                <i class="fas fa-expand"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Contenido Editor -->
+                <div id="editor-content" class="card-body bg-darker p-0">
+                    <div class="row g-0">
+                        
+                        <!-- Explorador de Archivos -->
+                        <div class="col-3 border-end border-secondary">
+                            <div id="fileExplorer" class="file-explorer">
+                                <div class="p-2">
+                                    <div class="file-tree">
+                                        <!-- El árbol de archivos se generará dinámicamente -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Editor de Código -->
+                        <div class="col-6">
+                            <div id="editor" style="height: 500px; position: relative;"></div>
+                        <!-- Agregar justo después del div del editor -->
+                        <div id="floatingButton" class="floating-button" style="display: none;">
+                            <button id="sendToChat" class="btn btn-sm btn-modern">
+                                <i class="fas fa-comment"></i>
+                                </button>
+                                <button id="editSelection" class="btn btn-sm btn-modern">
+                                    <i class="fas fa-edit"></i>
+                                </button>
+                            </div>
+                        </div>
+                        
+                     
+                        <!-- Chat GPT -->
+                        <div class="col-3 border-end border-secondary">
+                            <div id="chatGPT" class="chat-container">
+                                <div class="chat-messages" id="chatMessages">
+                                    <!-- Los mensajes se agregarán aquí dinámicamente -->
+                                </div>
+                                <div class="chat-input-container">
+                                    <textarea id="chatInput" class="chat-input" placeholder="Pregunta algo a ChatGPT..."></textarea>
+                                    <button id="sendChat" class="btn btn-modern btn-sm">
+                                        <i class="fas fa-paper-plane"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sección Terminal -->
+    <div class="row mt-4">
+        <div class="col">
+            <div class="card bg-dark border-secondary">
+                <!-- Encabezado Terminal -->
+                <div class="card-header bg-darker d-flex justify-content-between align-items-center">
+                    <h5 class="code-font mb-0">Terminal</h5>
+                    <div class="d-flex align-items-center">
+                        <button id="scrollToBottom" class="btn btn-modern btn-sm me-2">
+                            <i class="fas fa-arrow-down"></i> Scroll Down
+                        </button>
+                        <button id="clearTerminal" class="btn btn-modern btn-sm me-2">
+                            <i class="fas fa-broom"></i> Clear
+                        </button>
+                        <div class="window-controls">
+                            <button class="btn btn-modern btn-sm minimize-btn" data-target="terminal-content">
+                                <i class="fas fa-minus"></i>
+                            </button>
+                            <button class="btn btn-modern btn-sm maximize-btn" data-target="terminal-content">
+                                <i class="fas fa-expand"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Contenido Terminal -->
+                <div id="terminal-content" class="card-body bg-darker p-0">
+                    <pre id="botOutput" class="p-3 text-light" style="height: 300px; overflow-y: scroll;"></pre>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modales -->
+{% include 'trading/modals/new_item_modal.html' %}
+
+<!-- Estilos -->
+{% include 'trading/styles/dashboard_styles.html' %}
+<!-- Scripts externos -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.12/ace.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Scripts -->
+<script type="module" src="static/scripts/utils/utils.js"></script>
+<script type="module" src="static/scripts/utils/chartConfig.js"></script>
+<script type="module" src="static/scripts/utils/execute_strategies.js"></script>
+<script type="module" src="static/scripts/utils/tecnical_indicators.js"></script>
+<script type="module" src="static/scripts/utils/balances.js"></script>
+<script type="module" src="static/scripts/utils/max_min_buttons.js"></script>
+<script type="module" src="static/scripts/utils/chart_traces.js"></script>
+<script type="module" src="static/scripts/utils/terminal.js"></script>
+<script type = "module" src="static/scripts/dashboard_scripts.js"></script>
+
+
+
+
+
+{% endblock %} <!-- Font Awesome -->

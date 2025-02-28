@@ -20,6 +20,8 @@ from dotenv import load_dotenv
 
 from binance_dashboard import BinanceView
 
+import numpy as np
+
 load_dotenv()
 
 def get_balances(request):
@@ -148,18 +150,22 @@ def get_balances_simulations(request, strategy_number):
             'error': str(e)
         }, status=500)
 
+# Variable global para los símbolos de los gráficos
+symbols_graphs = ['BTCUSDT', 'ETHUSDT']
+
 def dashboard(request):
     try:
         # Obtener balances como JSON
         balance_response = get_balances(request)
         balance_data = json.loads(balance_response.content)
-        
+        print(balance_data)
         # Preparar contexto para el template
         context = {
             'balances': balance_data['balances'],
             'total_balance_usd': balance_data['total_balance_usd'],
             'auto_refresh': True,
-            'refresh_interval': 60000
+            'refresh_interval': 60000,
+            'symbols_graphs': symbols_graphs  # Agregar la variable global al contexto
         }
         
         return render(request, 'trading/dashboard.html', context)
@@ -168,7 +174,8 @@ def dashboard(request):
         context = {
             'error': str(e),
             'auto_refresh': True,
-            'refresh_interval': 60000
+            'refresh_interval': 60000,
+            'symbols_graphs': symbols_graphs  # Agregar también en caso de error
         }
         return render(request, 'trading/dashboard.html', context)
 
@@ -655,11 +662,11 @@ def move_file(request):
             
             # Construir rutas completas
             source_full_path = os.path.join(base_path, source_path)
-            print("source_full_path: ");    
-            print(source_full_path);
+            #print("source_full_path: ");    
+            #print(source_full_path);
             target_full_path = base_path if target_path == 'bot' else os.path.join(base_path, target_path)
-            print("target_full_path: ");
-            print(target_full_path);
+            #print("target_full_path: ");
+            #print(target_full_path);
             
             # Verificar que la ruta origen está dentro del directorio bot
             if not os.path.commonpath([base_path, source_full_path]).startswith(base_path):
@@ -1285,5 +1292,123 @@ def stop_strategy_2(request):
             return JsonResponse({'success': False, 'error': str(e)})
             
     return JsonResponse({'success': False, 'error': 'Método no permitido'}, status=405)
+
+
+
+
+
+
+def calculate_fourier_magnitudes(prices):
+    if not prices:
+        return []  # Devuelve una lista vacía si no hay precios
+
+    # Encontrar la siguiente potencia de 2 mayor que la longitud de los precios
+    next_power_of_2 = 2 ** int(np.ceil(np.log2(len(prices))))
+    
+    # Crear un nuevo array con ceros hasta alcanzar la siguiente potencia de 2
+    padded_prices = np.pad(prices, (0, next_power_of_2 - len(prices)), 'constant')
+    
+    # Calcular la Transformada de Fourier
+    fft_result = np.fft.fft(padded_prices)
+    
+    # Calcular las magnitudes y fases
+    magnitudes = np.abs(fft_result)
+    #print("magnitudes: ", magnitudes)
+    phases = np.angle(fft_result)
+    
+    # Obtener las 3 frecuencias fundamentales (excluyendo la componente DC)
+    sorted_indices = np.argsort(magnitudes[1:])[::-1]  # Ordenar índices por magnitud descendente
+    fundamental_freqs = [sorted_indices[0], sorted_indices[1], sorted_indices[2]]  # Las 3 frecuencias seleccionadas
+    
+    # Generar las sinusoides en el tiempo para cada frecuencia fundamental
+    t = np.arange(len(prices))
+    sinusoids = []
+    
+    # Calcular las 3 sinusoides fundamentales
+    fundamental_waves = []
+    for freq_idx in fundamental_freqs:
+        # Reconstruir la sinusoide usando magnitud, frecuencia y fase
+        sinusoid = magnitudes[freq_idx] * np.cos(2 * np.pi * freq_idx * t / len(prices) + phases[freq_idx])
+        fundamental_waves.append(sinusoid)
+        sinusoids.append(sinusoid.tolist())
+    
+    # Calcular la suma de las 3 sinusoides
+    sum_wave = np.sum(fundamental_waves, axis=0)
+    sinusoids.append(sum_wave.tolist())
+    
+    # Calcular la resta de las 3 sinusoides
+    diff_wave = fundamental_waves[0] - fundamental_waves[1] - fundamental_waves[2]
+    sinusoids.append(diff_wave.tolist())
+    
+    # Calcular la multiplicación de las 3 sinusoides
+    mult_wave = np.multiply.reduce(fundamental_waves)
+    sinusoids.append(mult_wave.tolist())
+        
+    return sinusoids, magnitudes
+
+@csrf_exempt
+def fourier_view(request):
+    if request.method == 'POST':
+        # Obtener los datos del cuerpo JSON
+        data = json.loads(request.body)
+        #print("data: ", data)
+        prices = data.get('prices', [])
+        
+        #print("prices: ", prices)
+        sinusoids, fundamental_freqs = calculate_fourier_magnitudes(prices)
+        #print("magnitudes: ", magnitudes[0])
+        #print("sinusoids: ", sinusoids)
+        #sinusoids = [int(s) for s in sinusoids]  # Convertir a int
+        fundamental_freqs = [int(f) for f in fundamental_freqs]  # Convertir a int
+        return JsonResponse({'sinusoids': sinusoids, 'fundamental_freqs': fundamental_freqs})
+    
+
+
+
+#import requests
+
+def get_binance_symbols():
+    url = "https://api.binance.com/api/v3/exchangeInfo"
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Lanza un error si la solicitud no fue exitosa
+        data = response.json()
+        symbols = [symbol['symbol'] for symbol in data['symbols']]
+        return symbols
+    except requests.exceptions.RequestException as e:
+        print(f"Error al obtener símbolos de Binance: {e}")
+        return []
+
+
+def get_available_symbols(request):
+    # Obtener los símbolos disponibles
+    available_symbols = get_binance_symbols()
+    print("available_symbols: ", available_symbols)
+    return JsonResponse({'symbols': available_symbols})
+
+def check_strategy_status(request, strategy_number):
+    """Verifica si una estrategia está realmente ejecutándose"""
+    try:
+        # Intentar leer el PID del archivo
+        pid_file = f'strategy{strategy_number}_pid.txt'
+        
+        if not os.path.exists(pid_file):
+            return JsonResponse({'is_running': False})
+            
+        with open(pid_file, 'r') as f:
+            pid = int(f.read().strip())
+            
+        # Verificar si el proceso existe
+        try:
+            os.kill(pid, 0)  # Señal 0 solo verifica existencia
+            return JsonResponse({'is_running': True})
+        except ProcessLookupError:
+            # El proceso no existe, limpiar archivo
+            os.remove(pid_file)
+            return JsonResponse({'is_running': False})
+            
+    except Exception as e:
+        logging.error(f"Error checking strategy {strategy_number} status: {str(e)}")
+        return JsonResponse({'is_running': False})
 
 

@@ -50,9 +50,9 @@ export function updateTotalBalance() {
             
             if (strategy1Active) {
                 try {
-                    const response = await fetch('/get_balance_simulation/1/');
-                    sim1Data = await response.json();
-                    console.log("simulationData strategy 1: ", sim1Data);
+                    const response_1 = await fetch('/get_balance_simulation/1/');
+                    sim1Data = await response_1.json();
+                    //console.log("simulationData strategy 1: ", sim1Data);
                     // Actualizar el título de la columna con el balance total
                     const strategy1Header = document.querySelector('span.strategy1-header');
                     if (strategy1Header) {
@@ -66,9 +66,9 @@ export function updateTotalBalance() {
             
             if (strategy2Active) {
                 try {
-                    const response = await fetch('/get_balance_simulation/2/');
-                    sim2Data = await response.json();
-                    console.log("simulationData strategy 2: ", sim2Data);
+                    const response_2 = await fetch('/get_balance_simulation/2/');
+                    sim2Data = await response_2.json();
+                    //console.log("simulationData strategy 2: ", sim2Data);
                     // Actualizar el título de la columna con el balance total
                     const strategy2Header = document.querySelector('span.strategy2-header');
                     if (strategy2Header) {

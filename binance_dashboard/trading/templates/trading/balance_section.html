@@ -1,0 +1,91 @@
+<!-- Sección Portfolio -->
+<div class="row mb-4">
+    <div class="col">
+        <div class="card bg-dark border-secondary">
+            <!-- Encabezado Portfolio -->
+            <div class="card-header bg-darker d-flex justify-content-between align-items-center">
+                <div class="d-flex align-items-center">
+                    <h2 class="code-font mb-0">Tu portfolio en Binance</h2>
+                    <span class="ms-3 code-font text-success total-balance-usd" style="font-size: 1.5rem; font-weight: bold;">
+                        ${{ total_balance_usd|floatformat:2 }}
+                    </span>
+                </div>
+                <div class="window-controls">
+                    <button class="btn btn-modern btn-sm minimize-btn" data-target="portfolio-content">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                    <button class="btn btn-modern btn-sm maximize-btn" data-target="portfolio-content">
+                        <i class="fas fa-expand"></i>
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Contenido Portfolio -->
+            <div id="portfolio-content" class="card-body bg-darker">
+                <div class="code-block p-3 mb-4">
+                    <table class="table table-dark table-hover code-font">
+                        <thead>
+                            <tr>
+                                <th>Activo/precio</th>
+                                <th>
+                                    disponible
+                                    <button class="btn btn-sm btn-outline-secondary toggle-usd" data-target="disponible">
+                                        <i class="fas fa-dollar-sign"></i>
+                                    </button>
+                                </th>
+                                <th>
+                                    bloqueado
+                                    <button class="btn btn-sm btn-outline-secondary toggle-usd" data-target="bloqueado">
+                                        <i class="fas fa-dollar-sign"></i>
+                                    </button>
+                                </th>
+                                <th>
+                                    <span class="strategy1-header">estrategia 1</span>
+                                    <button class="btn btn-sm btn-outline-secondary toggle-strategy" data-target="strategy1">
+                                        <i class="fas fa-robot"></i>
+                                    </button>
+                                </th>
+                                <th>
+                                    <span class="strategy2-header"> estrategia 2</span>
+                                    <button class="btn btn-sm btn-outline-secondary toggle-strategy" data-target="strategy2">
+                                        <i class="fas fa-robot"></i>
+                                    </button>
+                                </th>
+                                <th>
+                                    <span class="strategy3-header">estrategia 3</span>
+                                    <button class="btn btn-sm btn-outline-secondary toggle-strategy" data-target="strategy3">
+                                        <i class="fas fa-robot"></i>
+                                    </button>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for balance in balances %}
+                            <tr>
+                                <td>
+                                    <span class="text-primary">"{{balance.asset}}"</span>
+                                    <br>
+                                    <span class="text-info">{{balance.current_price}}</span>
+                                </td>
+                                <td>
+                                    <span class="text-success amount">{{balance.free}}</span>
+                                    <span class="text-success usd d-none">${{ balance.free|floatformat:2 }}</span>
+                                </td>
+                                <td>
+                                    <span class="text-warning amount">{{balance.locked}}</span>
+                                    <span class="text-warning usd d-none">${{ balance.locked|floatformat:2 }}</span>
+                                </td>
+                                <td><span class="text-info">-</span></td>
+                                <td><span class="text-info">-</span></td>
+                                <td><span class="text-info">-</span></td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <!-- Gráfico de Balance -->
+                <div id="balanceChart" style="height: 400px; width: 100%;"></div>
+            </div>
+        </div>
+    </div>
+</div>

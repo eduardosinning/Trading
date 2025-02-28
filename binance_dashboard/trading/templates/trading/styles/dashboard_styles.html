@@ -1,13 +1,15 @@
 <!-- Estilos personalizados -->
 <style>
     .dark-theme {
-        background-color: #1e1e1e;
-        color: #d4d4d4;
+        background-color: rgba(0, 0, 0, 0.95);
+        color: #00ff00;
         padding: 20px;
+        text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
     }
     
     .bg-darker {
-        background-color: #252526;
+        background-color: rgba(20, 20, 20, 0.85);
+        backdrop-filter: blur(5px);
     }
     
     .code-font {
@@ -15,9 +17,10 @@
     }
     
     .code-block {
-        background-color: #252526;
+        background-color: rgba(10, 10, 10, 0.9);
         border-radius: 6px;
-        border: 1px solid #404040;
+        border: 1px solid rgba(0, 255, 0, 0.2);
+        box-shadow: 0 0 15px rgba(0, 255, 0, 0.1);
     }
     
     .table {
@@ -25,49 +28,57 @@
     }
     
     .table-dark {
-        background-color: transparent;
+        background-color: rgba(0, 0, 0, 0.7);
     }
     
     .card {
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: rgba(20, 20, 20, 0.8);
+        border: 1px solid rgba(0, 255, 0, 0.1);
+        box-shadow: 0 4px 15px rgba(0, 255, 0, 0.1);
+        backdrop-filter: blur(10px);
     }
     
     select option {
-        background-color: #252526;
+        background-color: rgba(20, 20, 20, 0.95);
     }
     
     .btn-outline-primary, .btn-outline-secondary {
-        border-width: 2px;
+        border-width: 1px;
+        border-color: rgba(0, 255, 0, 0.3);
     }
     
     .btn-outline-primary:hover, .btn-outline-secondary:hover {
-        background-color: #2d2d2d;
+        background-color: rgba(0, 255, 0, 0.1);
     }
     
     .custom-select {
         max-width: 150px;
         font-size: 0.9rem;
+        background-color: rgba(20, 20, 20, 0.9);
     }
     
     .btn-modern {
-        background-color: #2d2d2d;
-        color: #d4d4d4;
-        border: 1px solid #404040;
+        background-color: rgba(20, 20, 20, 0.8);
+        color: #00ff00;
+        border: 1px solid rgba(0, 255, 0, 0.2);
         padding: 0.375rem 0.75rem;
         font-size: 0.9rem;
         transition: all 0.2s ease-in-out;
+        text-shadow: 0 0 5px rgba(0, 255, 0, 0.3);
     }
     
     .btn-modern:hover {
-        background-color: #3d3d3d;
-        color: #ffffff;
-        border-color: #505050;
+        background-color: rgba(0, 255, 0, 0.1);
+        color: #00ff00;
+        border-color: rgba(0, 255, 0, 0.4);
+        box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
     }
     
     .btn-modern.active {
-        background-color: #0066cc;
-        color: white;
-        border-color: #0066cc;
+        background-color: rgba(0, 255, 0, 0.2);
+        color: #00ff00;
+        border-color: rgba(0, 255, 0, 0.5);
+        box-shadow: 0 0 15px rgba(0, 255, 0, 0.3);
     }
     
     .btn-group .btn-modern:first-child {
@@ -84,6 +95,7 @@
         width: 100%;
         border-radius: 0 0 4px 4px;
         position: relative;
+        background-color: rgba(10, 10, 10, 0.95);
     }
     
     .ace_editor {
@@ -98,6 +110,7 @@
     .window-controls .btn {
         padding: 0.25rem 0.5rem;
         margin-left: 0.25rem;
+        background-color: rgba(0, 255, 0, 0.1);
     }
     
     .maximized {
@@ -108,6 +121,7 @@
         bottom: 20px;
         z-index: 1050;
         margin: 0 !important;
+        backdrop-filter: blur(15px);
     }
     
     .minimized .card-body {
@@ -117,7 +131,8 @@
     .file-explorer {
         height: 500px;
         overflow-y: auto;
-        background-color: #1e1e1e;
+        background-color: rgba(10, 10, 10, 0.9);
+        border: 1px solid rgba(0, 255, 0, 0.1);
     }
     
     .file-tree {
@@ -130,15 +145,15 @@
         cursor: pointer;
         display: flex;
         align-items: center;
-        color: #d4d4d4;
+        color: #00ff00;
     }
     
     .file-tree-item:hover {
-        background-color: #2d2d2d;
+        background-color: rgba(0, 255, 0, 0.1);
     }
     
     .file-tree-item.active {
-        background-color: #094771;
+        background-color: rgba(0, 255, 0, 0.2);
     }
     
     .file-tree-item i {
@@ -152,36 +167,39 @@
     }
     
     .modal-dark {
-        background-color: #1e1e1e;
-        color: #d4d4d4;
+        background-color: rgba(10, 10, 10, 0.95);
+        color: #00ff00;
+        backdrop-filter: blur(10px);
     }
     
     .modal-dark .modal-header {
-        border-bottom-color: #404040;
+        border-bottom-color: rgba(0, 255, 0, 0.2);
     }
     
     .modal-dark .modal-footer {
-        border-top-color: #404040;
+        border-top-color: rgba(0, 255, 0, 0.2);
     }
     
     .modal-dark .form-control {
-        background-color: #2d2d2d;
-        border-color: #404040;
-        color: #d4d4d4;
+        background-color: rgba(20, 20, 20, 0.8);
+        border-color: rgba(0, 255, 0, 0.2);
+        color: #00ff00;
     }
     
     .modal-dark .form-control:focus {
-        background-color: #2d2d2d;
-        border-color: #0066cc;
-        color: #d4d4d4;
+        background-color: rgba(20, 20, 20, 0.9);
+        border-color: rgba(0, 255, 0, 0.4);
+        color: #00ff00;
+        box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
     }
+
     .file-tree-item.dragging {
-    opacity: 0.5;
+        opacity: 0.5;
     }
 
     .folder-content.drag-over {
-        background-color: rgba(255, 255, 255, 0.1);
-        border: 2px dashed #666;
+        background-color: rgba(0, 255, 0, 0.1);
+        border: 2px dashed rgba(0, 255, 0, 0.3);
     }
 
     .file-tree-item {
@@ -206,12 +224,13 @@
         color: #00ff00;
         margin-right: 8px;
         font-weight: bold;
+        text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
     }
 
     .terminal-input {
         background: transparent;
         border: none;
-        color: #d4d4d4;
+        color: #00ff00;
         font-family: 'Fira Code', monospace;
         font-size: 14px;
         flex-grow: 1;
@@ -222,23 +241,26 @@
         padding: 2px 0;
         white-space: pre-wrap;
         word-wrap: break-word;
+        color: #00ff00;
     }
 
     .terminal-line.error {
-        color: #ff4444;
+        color: #ff0000;
+        text-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
     }
 
     #botOutput {
         font-family: 'Fira Code', monospace;
         font-size: 14px;
         line-height: 1.4;
+        color: #00ff00;
     }
 
     .delete-btn {
         visibility: hidden;
         background: none;
         border: none;
-        color: #ff4444;
+        color: #ff0000;
         padding: 2px 4px;
         cursor: pointer;
         opacity: 0.7;
@@ -248,6 +270,7 @@
 
     .delete-btn:hover {
         opacity: 1;
+        text-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
     }
 
     .file-tree-item:hover .delete-btn {
@@ -267,7 +290,8 @@
         display: flex;
         flex-direction: column;
         height: 500px;
-        background-color: #1e1e1e;
+        background-color: rgba(10, 10, 10, 0.95);
+        border: 1px solid rgba(0, 255, 0, 0.2);
     }
 
     .chat-messages {
@@ -281,32 +305,34 @@
         padding: 0.5rem;
         border-radius: 4px;
         max-width: 90%;
+        background-color: rgba(20, 20, 20, 0.8);
+        border: 1px solid rgba(0, 255, 0, 0.1);
     }
 
     .chat-message.user {
-        background-color: #2b2b2b;
+        background-color: rgba(0, 255, 0, 0.1);
         margin-left: auto;
-        color: #d4d4d4;
+        color: #00ff00;
     }
 
     .chat-message.assistant {
-        background-color: #252526;
+        background-color: rgba(20, 20, 20, 0.9);
         margin-right: auto;
-        color: #d4d4d4;
+        color: #00ff00;
     }
 
     .chat-input-container {
         display: flex;
         padding: 1rem;
-        background-color: #252526;
-        border-top: 1px solid #404040;
+        background-color: rgba(20, 20, 20, 0.9);
+        border-top: 1px solid rgba(0, 255, 0, 0.2);
     }
 
     .chat-input {
         flex-grow: 1;
-        background-color: #2d2d2d;
-        border: 1px solid #404040;
-        color: #d4d4d4;
+        background-color: rgba(20, 20, 20, 0.8);
+        border: 1px solid rgba(0, 255, 0, 0.2);
+        color: #00ff00;
         padding: 0.5rem;
         border-radius: 4px;
         resize: none;
@@ -317,42 +343,47 @@
 
     .chat-input:focus {
         outline: none;
-        border-color: #0066cc;
+        border-color: rgba(0, 255, 0, 0.4);
+        box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
     }
 
     .message-time {
         font-size: 0.8em;
-        color: #666;
+        color: rgba(0, 255, 0, 0.6);
         margin-top: 0.25rem;
     }
 
     .code-block-chat {
-        background-color: #1e1e1e;
+        background-color: rgba(10, 10, 10, 0.95);
         padding: 0.5rem;
         border-radius: 4px;
         margin: 0.5rem 0;
         white-space: pre-wrap;
         font-family: 'Fira Code', monospace;
+        border: 1px solid rgba(0, 255, 0, 0.2);
     }
 
     .copy-button {
         background: none;
         border: none;
-        color: #0066cc;
+        color: #00ff00;
         cursor: pointer;
         padding: 0.25rem 0.5rem;
         font-size: 0.8em;
+        text-shadow: 0 0 5px rgba(0, 255, 0, 0.3);
     }
 
     .copy-button:hover {
-        color: #0088ff;
+        color: #00ff00;
+        text-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
     }
 
     #floatingButton {
-        background-color: #2d3436;
+        background-color: rgba(20, 20, 20, 0.9);
         border-radius: 5px;
         padding: 5px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+        border: 1px solid rgba(0, 255, 0, 0.2);
     }
 
     #floatingButton .btn {
@@ -362,33 +393,37 @@
     .floating-button {
         position: absolute;
         z-index: 2000;
-        background: #509cb1;
-        border: 1px solid #636e72;
+        background: rgba(80, 156, 177, 0.8);
+        border: 1px solid rgba(0, 255, 0, 0.2);
         border-radius: 4px;
         padding: 4px;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
         display: block;
+        backdrop-filter: blur(5px);
     }
 
     .floating-button button {
         margin: 0 2px;
         padding: 4px 8px;
         background: transparent;
-        border: 1px solid #636e72;
-        color: #dfe6e9;
+        border: 1px solid rgba(0, 255, 0, 0.2);
+        color: #00ff00;
     }
 
     .floating-button button:hover {
-        background: #478399;
+        background: rgba(0, 255, 0, 0.1);
         cursor: pointer;
+        box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
     }
 
     #editor {
         position: relative;
     }
+
     .btn-active {
-    background-color: #28a745; /* Cambia el color de fondo */
-        color: white; /* Cambia el color del texto */
+        background-color: rgba(40, 167, 69, 0.8);
+        color: #00ff00;
+        text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
     }   
 
 </style>

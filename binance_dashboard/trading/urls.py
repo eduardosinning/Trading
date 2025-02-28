@@ -29,5 +29,9 @@ urlpatterns = [
     path('get_predictions/<str:symbol>/<str:interval>/', views.get_predictions, name='get_predictions'),
     path('save_chart_config/', views.save_chart_config, name='save_chart_config'),
     path('get_trading_history/', views.get_trading_history, name='get_trading_history'),
+    path('calculate_fourier/', views.fourier_view, name='calculate_fourier'),
     path('get_strategy_trading_history/<int:strategy_number>/', views.get_strategy_trading_history, name='get_strategy_trading_history'),
+    path('get_available_symbols/', views.get_available_symbols, name='get_available_symbols'),
+    path('fourier_view/', views.fourier_view, name='fourier_view'),
+    path('check_strategy_status/<int:strategy_number>/', views.check_strategy_status, name='check_strategy_status'),
 ]

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4df5239f-d8fb-40be-860c-3c2ec6434209" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/RL/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/execute_strategy_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/RL/execute_strategy_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/real_trading_history.json" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/RL/real_trading_history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/simulated_balances_strategy1.json" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/RL/simulated_balances_strategy1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/simulated_balances_strategy2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/simulated_orders_strategy1.json" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/RL/simulated_orders_strategy1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/simulated_orders_strategy2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/strategy1_trading_history.json" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/RL/strategy1_trading_history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/strategy2_trading_history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/strategy_1_trading_history.json" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/RL/strategy_1_trading_history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/RL/strategy_2_trading_history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/bot_output.log" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/bot_output.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/bot_status.txt" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/bot_status.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/forecasting/BTCUSDT_1m_model_weights.h5" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/forecasting/BTCUSDT_1m_model_weights.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/forecasting/BTCUSDT_1m_predictions.json" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/forecasting/BTCUSDT_1m_predictions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/forecasting/chart_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/bot/forecasting/chart_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/bot/forecasting/timeGAN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/trading/templates/trading/scripts/dashboard_script.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/trading/templates/trading/scripts/dashboard_scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/trading/templates/trading/scripts/dashboard_scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/trading/templates/trading/scripts/utils/tecnical_indicators.js" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/trading/templates/trading/scripts/utils/tecnical_indicators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/trading/templates/trading/scripts/utils/terminal.js" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/trading/templates/trading/scripts/utils/terminal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/trading/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/trading/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binance_dashboard/trading/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/binance_dashboard/trading/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pfQdRYYnQrsfboN2pP8yMMVUiU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df5239f-d8fb-40be-860c-3c2ec6434209" name="Changes" comment="" />
+      <created>1733154737001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733154737001</updated>
+    </task>
+    <servers />
+  </component>
+</project>
